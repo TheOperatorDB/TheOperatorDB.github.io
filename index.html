@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Human DB</title>
+
+        <link rel="shortcut icon" href="favicon.ico">
+
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+    </head>
+
+    <body>
+
+        <div class="container">
+            <div>
+                <input type="text" class="searchInput" id="nameSearch" onkeyup="searchHumanDB('name')" placeholder="Name...">
+                <input type="text" class="searchInput" id="ageSearch" onkeyup="searchHumanDB('age')" placeholder="Age...">
+                <input type="text" class="searchInput" id="statusSearch" onkeyup="searchHumanDB('status')" placeholder="Status...">
+            </div>
+            <div class="row">
+                <table class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th style="width:fit-content">Name</th>
+                        <th>Sex</th>
+                        <th>Age</th>
+                        <th>Skin</th>
+                        <th>Eye</th>
+                        <th>Height</th>
+                        <th>Weight</th>
+                        <th>Status</th>
+                        <th>HumanDB</th>
+                    </tr>
+                    </thead>
+                    <tbody id="humanDB">
+                    </tbody>
+                </table>
+			</div>
+		</div>
+        <script src="js/main.js"></script>
+    </body>
+</html>

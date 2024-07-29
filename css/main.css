@@ -1,0 +1,17 @@
+.container {
+  padding-left: 50rem;
+  padding-right: 50rem;
+  padding-top: 5rem;
+}
+
+.btn {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.searchInput {
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
