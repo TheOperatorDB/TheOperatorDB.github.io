@@ -15,3 +15,21 @@
   border: 1px solid #ddd;
   margin-bottom: 12px;
 }
+
+.bannerDiv {
+  width: 100%; 
+  height: 50px; 
+  background-color: gray; 
+  color:white
+}
+
+.bannerText {
+  :link, :visited, :link:active, :visited:active { color: #FFFFFF; };
+  text-align: center; 
+  vertical-align: middle; 
+  line-height: 50px;
+}
+
+.githubLink {
+  text-decoration: underline;
+}
