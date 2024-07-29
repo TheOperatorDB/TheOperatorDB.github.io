@@ -83,7 +83,7 @@ function fillTable(humans) {
         row.appendChild(status);
 
         let img = document.createElement("td");
-        img.innerHTML = humans[i].img === undefined ? "" : "<button class=\"btn\" onclick=\"window.open('images/humanDB/" + humans[i].img + "','_blank')\"><img src=\"images/humanDB/humanDBIcon.png\" width=\"40px\"></button>";
+        img.innerHTML = humans[i].img === undefined ? "" : "<button class=\"btn\" onclick=\"window.open('https://raw.githubusercontent.com/TheOperatorDB/TheOperatorDB.github.io/main/images/humanDB/" + humans[i].img + "','_blank')\"><img src=\"images/humanDB/humanDBIcon.png\" width=\"40px\"></button>";
         row.appendChild(img);
 
         table.appendChild(row);
