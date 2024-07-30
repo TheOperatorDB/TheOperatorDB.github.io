@@ -20,7 +20,8 @@ var data = [
               { name: 'Overview', type: 'file', url:'facility/HDD/connie_moore/overview.png' }
             ]},
             { name: 'Sacha COLE', type: 'folder', children: [
-              { name: 'Content', type: 'file', url:'facility/HDD/sacha_cole/content.png' }
+              { name: 'Content', type: 'file', url:'facility/HDD/sacha_cole/content.png' },
+              { name: '03/04/1992', type: 'file', url:'facility/HDD/sacha_cole/03041992.png' }
             ]},
             { name: 'Content', type: 'file', url:'facility/HDD/content.png' },
             { name: 'Please stop', type: 'file', url:'facility/HDD/please_stop.png' }
