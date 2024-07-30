@@ -28,7 +28,7 @@ li {
   vertical-align: top;
 }
 
-html,body,.background { /* so that the #dv can fill up the page */
+html, body, .background { /* so that the #dv can fill up the page */
   width:100%;
   height:100%;
 }
