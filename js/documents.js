@@ -90,7 +90,7 @@ var data = [
 
 function listHtml(children) {
   return  '<ul>' + children.map(node => 
-              '<li>' + (node.url != undefined ? "<button class=\"btn\" onclick=\"window.open('https://raw.githubusercontent.com/TheOperatorDB/TheOperatorDB.github.io/main/documents/" + node.url + "','_blank')\">" + node.name + "</button>" : node.name) +
+              '<li>' + (node.url != undefined ? "<button class=\"btn\" onclick=\"window.open('https://raw.githubusercontent.com/TheOperatorDB/TheOperatorDB.github.io/main/images/documents/" + node.url + "','_blank')\">" + node.name + "</button>" : node.name) +
                   (node.type === 'file' ? '' : listHtml(node.children)) +
               '</li>').join('\n') +
           '</ul>';
