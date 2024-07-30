@@ -71,6 +71,7 @@ td {
 }
 
 .bannerDiv {
+  z-index: 50;
   margin: 0;
   padding: 0;
   position: fixed;
