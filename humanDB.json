@@ -953,7 +953,7 @@
                 "placeOfBirth": "2637 S. Cleveland Street Pittsburgh, PA 15206",
                 "bloodType": "A+",
                 "scarsMarks": "None",
-                "aliases": "None",
+                "aliases": "No known aliases",
                 "lastKnownAddress": "5071 High Bridge Ave. Cottage Grove, MN 55016",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
@@ -976,7 +976,24 @@
         {
             "name": "Foster VALENCIA",
             "img": "fosterVALENCIA.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "21",
+            "skin": "Type IV",
+            "eyeColor": "Blue",
+            "height": "172",
+            "weight": "65",
+            "knownFacts": {
+                "dateOfBirth": "22/02/1971",
+                "placeOfBirth": "5234 Tunnel Rd. San Jose, CA 95127",
+                "bloodType": "O-",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "4269 N. Cleveland Ave. Vista, CA 92083",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Nicholas HERRING",
