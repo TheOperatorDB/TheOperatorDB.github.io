@@ -8,6 +8,10 @@ function fillTable(cars) {
     for (var i = 0; i < cars.length; i++) {
         let row = document.createElement("tr");
 
+        let img = document.createElement("td");
+        img.innerHTML = cars[i].img === undefined ? "" : "<button class=\"btn\" onclick=\"window.open('https://raw.githubusercontent.com/TheOperatorDB/TheOperatorDB.github.io/main/images/carDB/" + cars[i].img + "','_blank')\"><img class=\"imgIcon\" src=\"images/carDB/imageIcon.png\" width=\"20px\"></button>";
+        row.appendChild(img);
+
         let plate = document.createElement("td");
         plate.innerText = cars[i].plate;
         row.appendChild(plate);
@@ -44,10 +48,6 @@ function fillTable(cars) {
         stolen.innerText = cars[i].knownFacts.stolen;
         row.appendChild(stolen);
 
-        let img = document.createElement("td");
-        img.innerHTML = cars[i].img === undefined ? "" : "<button class=\"btn\" onclick=\"window.open('https://raw.githubusercontent.com/TheOperatorDB/TheOperatorDB.github.io/main/images/carDB/" + cars[i].img + "','_blank')\"><img class=\"imgIcon\" src=\"images/carDB/imageIcon.png\" width=\"20px\"></button>";
-        row.appendChild(img);
-
         table.appendChild(row);
     }
 }
@@ -60,7 +60,7 @@ function fetchJson(path) {
 }
 
 function displayCarDB() {
-    fetchJson('carDB.json');
+    fetchJson('data/carDB.json');
 }
 
 displayCarDB();

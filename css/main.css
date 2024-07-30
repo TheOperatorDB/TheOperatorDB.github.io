@@ -1,3 +1,13 @@
+@font-face { font-family: SourceHanSans; src: url('../fonts/SourceHanSansCNMedium.otf'); } 
+
+* {
+  font-family: SourceHanSans, sans-serif !important;
+}
+
+.welcome-text {
+  color: white;
+}
+
 .red {
   color: #dc3545 !important;
 }
@@ -72,6 +82,7 @@ td {
 
 .bannerText {
   :link, :visited, :link:active, :visited:active { color: #FFFFFF; };
+  color: white;
   text-align: center; 
   vertical-align: middle; 
   line-height: 50px;

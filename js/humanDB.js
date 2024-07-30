@@ -68,6 +68,10 @@ function fillTable(humans, filters) {
 
     for (var i = 0; i < humans.length; i++) {
         let row = document.createElement("tr");
+        
+        let img = document.createElement("td");
+        img.innerHTML = humans[i].img === undefined ? "" : "<button class=\"btn\" onclick=\"window.open('https://raw.githubusercontent.com/TheOperatorDB/TheOperatorDB.github.io/main/images/humanDB/" + humans[i].img + "','_blank')\"><img class=\"imgIcon\" src=\"images/humanDB/imageIcon.png\"></button>";
+        row.appendChild(img);
 
         let name = document.createElement("td");
         name.classList.add("name");
@@ -147,10 +151,6 @@ function fillTable(humans, filters) {
         }
         row.appendChild(status);
 
-        let img = document.createElement("td");
-        img.innerHTML = humans[i].img === undefined ? "" : "<button class=\"btn\" onclick=\"window.open('https://raw.githubusercontent.com/TheOperatorDB/TheOperatorDB.github.io/main/images/humanDB/" + humans[i].img + "','_blank')\"><img class=\"imgIcon\" src=\"images/humanDB/imageIcon.png\"></button>";
-        row.appendChild(img);
-
         table.appendChild(row);
     }
 }
@@ -171,7 +171,7 @@ function displayHumanDB() {
     var fingerprints = document.getElementById("fingerprints").value;
     var status = document.getElementById("status").value;
     
-    fetchJson('humanDB.json', { search: search, sex: sex, skin: skin, eyeColor: eyeColor, criminalRecord: criminalRecord, fingerprints: fingerprints, status: status });
+    fetchJson('data/humanDB.json', { search: search, sex: sex, skin: skin, eyeColor: eyeColor, criminalRecord: criminalRecord, fingerprints: fingerprints, status: status });
 }
 
 displayHumanDB();
