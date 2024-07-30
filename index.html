@@ -8,43 +8,26 @@
 
         <link rel="shortcut icon" href="favicon.ico">
 
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link rel="stylesheet" href="css/main.css">
-        <link rel="stylesheet" href="css/bootstrap.css">
     </head>
 
-    <body>
+    <body style="background-color: #00010d;">
+        <div class="sidebar">
+            <a class="active" href="index.html">Home</a>
+            <a href="humanDB.html">HumanDB</a>
+            <a href="carDB.html">CarDB</a>
+            <a href="documents.html">Documents</a>
+        </div>
+
         <div class="bannerDiv">
             <p class="bannerText">
-                This is an <span style="color:red;">UNOFFICIAL</span> website about The Operator. For any question or suggestion you can open an issue <span  class="githubLink"><a href="https://github.com/TheOperatorDB/TheOperatorDB.github.io/issues">here</a></span>.
+                This is an <span style="color:red;font-weight: bold;">UNOFFICIAL</span> website about The Operator. For any question or suggestion you can open an issue <span  class="githubLink"><a href="https://github.com/TheOperatorDB/TheOperatorDB.github.io/issues">here</a></span>.
             </p>
         </div>
 
-        <div class="container">
-            <div>
-                <input type="text" class="searchInput" id="nameSearch" onkeyup="searchHumanDB('name')" placeholder="Name...">
-                <input type="text" class="searchInput" id="ageSearch" onkeyup="searchHumanDB('age')" placeholder="Age...">
-                <input type="text" class="searchInput" id="statusSearch" onkeyup="searchHumanDB('status')" placeholder="Status...">
-            </div>
-            <div class="row">
-                <table class="table table-striped">
-                    <thead>
-                    <tr>
-                        <th>Name</th>
-                        <th>Sex</th>
-                        <th>Age</th>
-                        <th>Skin</th>
-                        <th>Eye</th>
-                        <th>Height</th>
-                        <th>Weight</th>
-                        <th>Status</th>
-                        <th>HumanDB</th>
-                    </tr>
-                    </thead>
-                    <tbody id="humanDB">
-                    </tbody>
-                </table>
-			</div>
-		</div>
+        <div class="background">
+
         <script src="js/main.js"></script>
     </body>
 </html>

@@ -22,8 +22,8 @@
                 "firearmLicense": "No",
                 "occupation": "FDI Operator"
             },
-            "fingerprints": "true",
-            "criminalRecord": []
+            "criminalRecord": [],
+            "fingerprints": "true"
         },
         {
             "name": "John DOW",
@@ -535,22 +535,103 @@
         {
             "name": "Quinton SPENCE",
             "img": "quintonSPENCE.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "56",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "168",
+            "weight": "64",
+            "knownFacts": {
+                "dateOfBirth": "26/03/1935",
+                "placeOfBirth": "4057 Bayberry Street Woodside, NY 11377",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "7872 Hamilton Ave. Chaska, MN 55318",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Roderick SAWYER",
             "img": "roderickSAWYER.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "40",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "178",
+            "weight": "64",
+            "knownFacts": {
+                "dateOfBirth": "16/03/1952",
+                "placeOfBirth": "5281 N. Saxton Lane Kokomo, IN 46901",
+                "bloodType": "AB+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "9878 N. Deerfield Lane Hoboken, NJ 07030",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Makhi BREWER",
             "img": "makhiBREWER.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "35",
+            "skin": "Type III",
+            "eyeColor": "Brown",
+            "height": "185",
+            "weight": "84",
+            "knownFacts": {
+                "dateOfBirth": "27/09/1956",
+                "placeOfBirth": "8794 Pawnee Lane Wilmette, IL 60091",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "6693 N. Depot Dr. Chaska, MN 55318",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Ruby BELL",
             "img": "rubyBELL.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "47",
+            "skin": "Type I",
+            "eyeColor": "Brown",
+            "height": "162",
+            "weight": "52",
+            "knownFacts": {
+                "dateOfBirth": "02/03/1945",
+                "placeOfBirth": "9380 E. Hamilton Drive Central Islip, NY 11722",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "768 Lake Street Wooster, NY 11791",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "18/10/1988",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "01/04/1972",
+                    "code": "07-47",
+                    "descrption": "Improper passing",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Lara CAMPBELL",
@@ -641,32 +722,187 @@
         {
             "name": "Georgina CARTER",
             "img": "georginaCARTER.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "25",
+            "skin": "Type I",
+            "eyeColor": "Blue",
+            "height": "171",
+            "weight": "62",
+            "knownFacts": {
+                "dateOfBirth": "04/05/1966",
+                "placeOfBirth": "9847 St Louis Drive Fullerton, CA 92831",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "1587 High Carriage Dr. Jackson Heights, NY 11372",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "07/03/1990",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "08/03/1989",
+                    "code": "07-47",
+                    "descrption": "Improper passing",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Lailah OLSON",
             "img": "lailahOLSON.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "57",
+            "skin": "Type I",
+            "eyeColor": "Blue",
+            "height": "172",
+            "weight": "62",
+            "knownFacts": {
+                "dateOfBirth": "07/11/1934",
+                "placeOfBirth": "5780 Tunnel Rd. West New York, NJ 07093",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "4254 N. Mayfair Dr. West New York, NJ 07093",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "30/09/1971",
+                    "code": "07-47",
+                    "descrption": "Improper passing",
+                    "term": "N/A"
+                },
+                {
+                    "date": "07/11/1969",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Kali WELCH",
             "img": "kaliWELCH.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "20",
+            "skin": "Type IV",
+            "eyeColor": "Brown",
+            "height": "159",
+            "weight": "54",
+            "knownFacts": {
+                "dateOfBirth": "02/07/1971",
+                "placeOfBirth": "7725 Old Sleepy Hollow Lane Springfield, PA 19064",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "1588 Bridge Street Lumberton, NC 28358",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "23/03/1989",
+                    "code": "30-33",
+                    "descrption": "Possession of drugs with intent to sell"	,
+                    "term": "1y 4m 28d"
+                },
+                {
+                    "date": "23/06/1989",
+                    "code": "30-33",
+                    "descrption": "Possession of drugs with intent to sell"	,
+                    "term": "1y 5m 22d"
+                }
+            ]
         },
         {
             "name": "Summer CHAN",
             "img": "summerCHAN.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "28",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "165",
+            "weight": "57",
+            "knownFacts": {
+                "dateOfBirth": "27/08/1963",
+                "placeOfBirth": "8074 Fremont Ave. Cranford, NJ 07016",
+                "bloodType": "AB+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "7395 W. Bank Street Lumberton, NC 28358",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "02/07/1981",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Ivanna HALL",
             "img": "ivannaHALL.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "39",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "165",
+            "weight": "59",
+            "knownFacts": {
+                "dateOfBirth": "23/12/1952",
+                "placeOfBirth": "4747 N. Cleveland Dr. Chaska, MN 55318",
+                "bloodType": "B-",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "35 N. Fremont Dr. Lebanon, PA 17042",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "02/12/1988",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Maria OSBORNE",
             "img": "mariaOSBORNE.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "36",
+            "skin": "Type IV",
+            "eyeColor": "Brown",
+            "height": "166",
+            "weight": "58",
+            "knownFacts": {
+                "dateOfBirth": "07/07/1955",
+                "placeOfBirth": "8974 Deerfield Lane Central Islip, NY 11722",
+                "bloodType": "B+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "4317 Queen Dr. Zion, IL 60099",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Ash LAWRENCE",
@@ -766,7 +1002,24 @@
         {
             "name": "Tanner HAWKINS",
             "img": "tannerHAWKINS.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "30",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "173",
+            "weight": "66",
+            "knownFacts": {
+                "dateOfBirth": "05/07/1961",
+                "placeOfBirth": "9862 Fremont Street Springfield, PA 19064",
+                "bloodType": "AB+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "390 S. Deerfield Rd. Lititz, PA 17543",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Cory HILL",
@@ -800,7 +1053,24 @@
         {
             "name": "Mason FLETCHER",
             "img": "masonFLETCHER.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "19",
+            "skin": "Type II",
+            "eyeColor": "Blue",
+            "height": "172",
+            "weight": "63",
+            "knownFacts": {
+                "dateOfBirth": "08/11/1972",
+                "placeOfBirth": "9255 E. Deerfield Lane Lebanon, PA 17042",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "4639 E. Valley View Street Sicklerville, NJ 08081",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Emerson BURRIS",
@@ -872,12 +1142,53 @@
         {
             "name": "William MORRIS",
             "img": "williamMORRIS.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "39",
+            "skin": "Type II",
+            "eyeColor": "Blue",
+            "height": "172",
+            "weight": "65",
+            "knownFacts": {
+                "dateOfBirth": "14/07/1952",
+                "placeOfBirth": "1436 Birchpond Street Woodside, NY 11377",
+                "bloodType": "AB+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "4758 Mayfair Lane Lebanon, PA 17042",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "15/04/1980",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Joseph DIXON",
             "img": "josephDIXON.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "24",
+            "skin": "Type II",
+            "eyeColor": "Blue",
+            "height": "172",
+            "weight": "62",
+            "knownFacts": {
+                "dateOfBirth": "30/03/1948",
+                "placeOfBirth": "2962 S. St Louis Lane Lebanon, PA 17042",
+                "bloodType": "AB+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "4873 Old Union Ave. Lititz, PA 17543",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Caleb GRIFFITHS",
@@ -904,17 +1215,81 @@
         {
             "name": "Logan MITCHELL",
             "img": "loganMITCHELL.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "32",
+            "skin": "Type III",
+            "eyeColor": "Brown",
+            "height": "166",
+            "weight": "60",
+            "knownFacts": {
+                "dateOfBirth": "16/01/1960",
+                "placeOfBirth": "6779 W. Williams Ave. Roselle, IL 60172",
+                "bloodType": "A-",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "6648 Over Rd. Fullerton, CA 92831",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Harrison HAWKINS",
             "img": "harrisonHAWKINS.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "27",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "172",
+            "weight": "68",
+            "knownFacts": {
+                "dateOfBirth": "19/01/1965",
+                "placeOfBirth": "9817 E. Point Rd. Kokomo, IN 46901",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "9341 S. Tanglewood Ave. West New York, NJ 07093",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Patrick WATTS",
             "img": "patrickWATTS.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "39",
+            "skin": "Type III",
+            "eyeColor": "Brown",
+            "height": "184",
+            "weight": "66",
+            "knownFacts": {
+                "dateOfBirth": "02/08/1934",
+                "placeOfBirth": "6585 S. York Rd. Stamford, CT 06902",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "8117 N. Birchpond Ave. Chaska, MN 55318",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "31/05/1969",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "17/04/1974",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Cole MCLEAN",
@@ -998,17 +1373,154 @@
         {
             "name": "Nicholas HERRING",
             "img": "nicholasHERRING.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "25",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "183",
+            "weight": "74",
+            "knownFacts": {
+                "dateOfBirth": "08/07/1966",
+                "placeOfBirth": "2983 Homewood Street Memphis, TN 38106",
+                "bloodType": "B-",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "9216 York Lane Sicklerville, NJ 08081",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "18/01/1988",
+                    "code": "07-47",
+                    "descrption": "Improper passing",
+                    "term": "N/A"
+                },
+                {
+                    "date": "10/07/1989",
+                    "code": "07-47",
+                    "descrption": "Improper passing",
+                    "term": "N/A"
+                },
+                {
+                    "date": "05/12/1980",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                },
+                {
+                    "date": "19/04/1989",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                },
+                {
+                    "date": "28/06/1988",
+                    "code": "07-47",
+                    "descrption": "Improper passing",
+                    "term": "N/A"
+                },
+                {
+                    "date": "24/04/1987",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "17/04/1987",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Harley ROSE",
             "img": "harleyROSE.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "35",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "167",
+            "weight": "66",
+            "knownFacts": {
+                "dateOfBirth": "07/04/1956",
+                "placeOfBirth": "6158 E. Bank Rd. Shakopee, MN 55379",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "2650 Old Tanglewood Dr. Cottage Grove, MN 55016",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "20/12/1988",
+                    "code": "07-47",
+                    "descrption": "Improper passing",
+                    "term": "N/A"
+                },
+                {
+                    "date": "29/12/1976",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                },
+                {
+                    "date": "14/01/1983",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                },
+                {
+                    "date": "15/07/1980",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                },
+                {
+                    "date": "07/07/1984",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "25/02/1977",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "16/12/1977",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Vic KNIGHT",
             "img": "vicKNIGHT.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "29",
+            "skin": "Type II",
+            "eyeColor": "Blue",
+            "height": "174",
+            "weight": "66",
+            "knownFacts": {
+                "dateOfBirth": "28/11/1962",
+                "placeOfBirth": "8446 High Tunnel Ave. West New York, NJ 07093",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "6140 Windfall Ave. Franklin, MA 02038",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Chris DAVIES",
@@ -1072,17 +1584,68 @@
         {
             "name": "Haiden HAYES",
             "img": "haidenHAYES.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "26",
+            "skin": "Type II",
+            "eyeColor": "Green",
+            "height": "166",
+            "weight": "58",
+            "knownFacts": {
+                "dateOfBirth": "17/06/1965",
+                "placeOfBirth": "2728 Lake Lane Joliet, IL 60435",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "1468 Bayberry Dr. Joliet, IL 60435",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Skye WEBB",
             "img": "skyeWEBB.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "27",
+            "skin": "Type III",
+            "eyeColor": "Brown",
+            "height": "161",
+            "weight": "56",
+            "knownFacts": {
+                "dateOfBirth": "26/10/1964",
+                "placeOfBirth": "6265 Point Ave. South Lyon, MI 48178",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "3934 S. Sleepy Hollow Drive Shakopee, MN 55379",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Skye BLAIR",
             "img": "skyeBLAIR.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "56",
+            "skin": "Type III",
+            "eyeColor": "Brown",
+            "height": "157",
+            "weight": "60",
+            "knownFacts": {
+                "dateOfBirth": "02/09/1935",
+                "placeOfBirth": "4356 Birchpond Lane Roselle, IL 60172",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "5649 Cleveland Street Pittsburgh, PA 17042",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Bret SAUNDERS",
@@ -1210,12 +1773,46 @@
         {
             "name": "Kai DUNCAN",
             "img": "kaiDUNCAN.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "36",
+            "skin": "Type III",
+            "eyeColor": "Brown",
+            "height": "168",
+            "weight": "67",
+            "knownFacts": {
+                "dateOfBirth": "17/09/1955",
+                "placeOfBirth": "935 S. Bank Dr. Franklin, MA 02038",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "3824 Pawnee Ave. Jackson Heights, NY 11372",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Harry PARKER",
             "img": "harryPARKER.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "20",
+            "skin": "Type III",
+            "eyeColor": "Brown",
+            "height": "184",
+            "weight": "82",
+            "knownFacts": {
+                "dateOfBirth": "25/01/1972",
+                "placeOfBirth": "5123 N. Tunnel Drive Sicklerville, NJ 08081",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "530 W. Edgewood Lane Wilmette, IL 60091",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Bradley MARSHALL",
@@ -1284,12 +1881,84 @@
         {
             "name": "Maximo NORTON",
             "img": "maximoNORTON.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "41",
+            "skin": "Type III",
+            "eyeColor": "Brown",
+            "height": "175",
+            "weight": "67",
+            "knownFacts": {
+                "dateOfBirth": "27/11/1950",
+                "placeOfBirth": "6444 Over Drive Cottage Grove, MN 55016",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "8146 Birchpond Street Waukegan, IL 60085",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "28/02/1986",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "19/04/1988",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                },
+                {
+                    "date": "18/10/1973",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "26/10/1978",
+                    "code": "07-47",
+                    "descrption": "Improper passing",
+                    "term": "N/A"
+                },
+                {
+                    "date": "08/01/1978",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                },
+                {
+                    "date": "24/06/1983",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                }
+
+            ]
         },
         {
             "name": "Turner GREGORY",
             "img": "turnerGREGORY.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "24",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "186",
+            "weight": "80",
+            "knownFacts": {
+                "dateOfBirth": "06/07/1967",
+                "placeOfBirth": "2673 High Dunbar Street Lumberton, NC 28358",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "1317 Birchpond Ave. Vista, CA 92083",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Dario BRANCH",
@@ -1351,27 +2020,139 @@
         {
             "name": "Joseph HEATH",
             "img": "josephHEATH.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "26",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "186",
+            "weight": "74",
+            "knownFacts": {
+                "dateOfBirth": "27/12/1965",
+                "placeOfBirth": "4371 E. Cleveland Dr. Roselle, IL 60172",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "653 Old Queen Street Hoboken, NJ 07030",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Tanner SIMPSON",
             "img": "tannerSIMPSON.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "29",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "183",
+            "weight": "75",
+            "knownFacts": {
+                "dateOfBirth": "31/10/1962",
+                "placeOfBirth": "5073 E. Edgewood Lane West New York, NJ 07093",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "5586 Pawnee Street Shirley, NY 11967",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "08/07/1987",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "22/12/1991",
+                    "code": "07-47",
+                    "descrption": "Improper passing",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Steff REID",
             "img": "steffREID.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "43",
+            "skin": "Type I",
+            "eyeColor": "Blue",
+            "height": "158",
+            "weight": "49",
+            "knownFacts": {
+                "dateOfBirth": "21/08/1959",
+                "placeOfBirth": "3643 W. Birchpond Dr. Lebanon, PA 17042",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "5538 Valley View Ave. Fullerton, CA 92831",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "//19",
+                    "code": "07-",
+                    "descrption": "",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Sidney JAMES",
             "img": "sidneyJAMES.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "29",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "175",
+            "weight": "67",
+            "knownFacts": {
+                "dateOfBirth": "24/11/1962",
+                "placeOfBirth": "7231 High Bridge Ave. Zion, IL 60099",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "9465 Bayoport Lane Waukegan, IL 60085",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Taylor JOHNSON",
             "img": "taylorJOHNSON.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "29",
+            "skin": "Type I",
+            "eyeColor": "Blue",
+            "height": "164",
+            "weight": "60",
+            "knownFacts": {
+                "dateOfBirth": "07/12/1962",
+                "placeOfBirth": "9412 Old Bayberry Ave. Franklin, MA 02038",
+                "bloodType": "B+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "7000 Tanglewood Dr. Hoboken, NJ 07030",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "10/08/1988",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Danni HILL",
@@ -1411,7 +2192,24 @@
         {
             "name": "Logan MORRISON",
             "img": "loganMORRISON.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "36",
+            "skin": "Type I",
+            "eyeColor": "Blue",
+            "height": "185",
+            "weight": "72",
+            "knownFacts": {
+                "dateOfBirth": "11/01/1956",
+                "placeOfBirth": "7551 Mulberry Ave. Zion, IL 60099",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "5077 Old Williams Ave. Kokomo, IN 46901",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Alexis DOYLE",
@@ -1474,7 +2272,24 @@
         {
             "name": "Reggie VARGAS",
             "img": "reggieVARGAS.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "35",
+            "skin": "Type IV",
+            "eyeColor": "Brown",
+            "height": "187",
+            "weight": "83",
+            "knownFacts": {
+                "dateOfBirth": "05/04/1956",
+                "placeOfBirth": "8893 S. Birchpond Street Cranford, NJ 07016",
+                "bloodType": "B+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "1828 Tunnel Dr. Cranford, NJ 07016",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Cameron SHARPE",
@@ -1609,12 +2424,46 @@
         {
             "name": "Layla ATKINSON",
             "img": "laylaATKINSON.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "28",
+            "skin": "Type III",
+            "eyeColor": "Brown",
+            "height": "165",
+            "weight": "61",
+            "knownFacts": {
+                "dateOfBirth": "20/03/1963",
+                "placeOfBirth": "6522 Catherine Ave. Kokomo, IN 46901",
+                "bloodType": "O-",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "1852 Fremont Dr. South Lyon, MI 48178",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Ruth MCKENZIE",
             "img": "ruthMCKENZIE.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "59",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "155",
+            "weight": "46",
+            "knownFacts": {
+                "dateOfBirth": "02/03/1933",
+                "placeOfBirth": "6557 Bridge Ave. Fullerton, CA 92831",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "8631 S. Hamilton Lane Shakopee, MN 55379",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Elisabeth CABRERA",
@@ -1705,7 +2554,24 @@
         {
             "name": "Kaelynn MCMILLAN",
             "img": "kaelynnMCMILLAN.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "11",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "145",
+            "weight": "36",
+            "knownFacts": {
+                "dateOfBirth": "24/07/1980",
+                "placeOfBirth": "3346 High Jackson Street West New York, NJ 07093",
+                "bloodType": "O-",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "4539 S. Point Dr. Lebanon, PA 17042",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Christopher WATSON",
@@ -1767,12 +2633,59 @@
         {
             "name": "Mason WEST",
             "img": "masonWEST.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "23",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "167",
+            "weight": "60",
+            "knownFacts": {
+                "dateOfBirth": "10/06/1968",
+                "placeOfBirth": "9846 E. Mayfair Lane Roselle, IL 60172",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "9072 S. Valley View Dr. Vista, CA 92083",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "23/02/1987",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "0y 0m 10d"
+                },
+                {
+                    "date": "30/01/1988",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Scott RICHARDSON",
             "img": "scottRICHARDSON.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "30",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "173",
+            "weight": "62",
+            "knownFacts": {
+                "dateOfBirth": "14/05/1961",
+                "placeOfBirth": "9297 N. Lake Drive Springfield, PA 19064",
+                "bloodType": "AB-",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "6720 Homewood Street Shirley, NY 11967",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Nathan POWELL",
@@ -1799,67 +2712,335 @@
         {
             "name": "Toby HOOD",
             "img": "tobyHOOD.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "35",
+            "skin": "Type I",
+            "eyeColor": "Blue",
+            "height": "182",
+            "weight": "66",
+            "knownFacts": {
+                "dateOfBirth": "20/02/1957",
+                "placeOfBirth": "7784 High Birchpond Street Hoboken, NJ 07030",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "4455 E. York Rd. Cottage Grove, MN 55016",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "02/11/1979",
+                    "code": "30-33",
+                    "descrption": "Possession of drugs with intent to sell",
+                    "term": "0y 9m 23d"
+                },
+                {
+                    "date": "25/09/1982",
+                    "code": "30-33",
+                    "descrption": "Possession of drugs with intent to sell",
+                    "term": "0y 9m 21d"
+                }
+            ]
         },
         {
             "name": "Gunnar FULTON",
             "img": "gunnarFULTON.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "37",
+            "skin": "Type III",
+            "eyeColor": "Brown",
+            "height": "179",
+            "weight": "72",
+            "knownFacts": {
+                "dateOfBirth": "13/02/1955",
+                "placeOfBirth": "5327 Old Bridge Dr. Joliet, IL 60435",
+                "bloodType": "O-",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "8952 Sleepy Hollow Street Cottage Grove, MN 55016",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Marlon GILBERT",
             "img": "marlonGILBERT.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "32",
+            "skin": "Type III",
+            "eyeColor": "Brown",
+            "height": "181",
+            "weight": "76",
+            "knownFacts": {
+                "dateOfBirth": "28/01/1960",
+                "placeOfBirth": "543 Old Deerfield Lane Syosset, NY 11791",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "9210 Deerfield Ave. Ontario, CA 91762",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "05/04/1987",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "30/12/1986",
+                    "code": "07-47",
+                    "descrption": "Improper passing",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Marcos SCHROEDER",
             "img": "marcosSCHROEDER.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "34",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "172",
+            "weight": "71",
+            "knownFacts": {
+                "dateOfBirth": "02/09/1957",
+                "placeOfBirth": "2483 Saxton Lane Fullerton, CA 92831",
+                "bloodType": "A-",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "3860 S. Birchpond Ave. Waukegan, IL 60085",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Jay RUSH",
             "img": "jayRUSH.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "38",
+            "skin": "Type V",
+            "eyeColor": "Brown",
+            "height": "183",
+            "weight": "73",
+            "knownFacts": {
+                "dateOfBirth": "10/09/1953",
+                "placeOfBirth": "6520 High Edgewood Street Springfield, PA 19064",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "8050 Pawnee Ave. Franklin, TX 02126",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Skyler FRASER",
             "img": "skylerFRASER.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "40",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "169",
+            "weight": "55",
+            "knownFacts": {
+                "dateOfBirth": "15/08/1951",
+                "placeOfBirth": "3515 Old Lake Street Central Islip, NY 11722",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "2333 Bayberry Dr. Springfield, PA 19064",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Tyler BARNES",
             "img": "tylerBARNES.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "21",
+            "skin": "Type IV",
+            "eyeColor": "Brown",
+            "height": "177",
+            "weight": "73",
+            "knownFacts": {
+                "dateOfBirth": "13/01/1971",
+                "placeOfBirth": "2282 Old Over Drive Fullerton, CA 92831",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "4263 St Louis Street Woodside, NY 11377",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Gale WALKER",
             "img": "galeWALKER.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "31",
+            "skin": "Type I",
+            "eyeColor": "Brown",
+            "height": "182",
+            "weight": "78",
+            "knownFacts": {
+                "dateOfBirth": "01/02/1961",
+                "placeOfBirth": "1117 Edgewood Drive Shirley, NY 11967",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "8463 S. Dunbar Lane Chaska, MN 55318",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Gale EDWARDS",
             "img": "galeEDWARDS.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "21",
+            "skin": "Type I",
+            "eyeColor": "Blue",
+            "height": "171",
+            "weight": "62",
+            "knownFacts": {
+                "dateOfBirth": "06/02/1971",
+                "placeOfBirth": "7571 Ohio Ave. Waukegan, IL 60085",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "3153 E. Tanglewood Lane Waukegan, IL 60085",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
-            "name": "Quinn HUGHUES",
-            "img": "quinnHUGHUES.png",
-            "status": "Missing"
+            "name": "Quinn HUGHES",
+            "img": "quinnHUGHES.png",
+            "status": "Missing",
+            "sex": "Male",
+            "age": "32",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "185",
+            "weight": "69",
+            "knownFacts": {
+                "dateOfBirth": "03/03/1960",
+                "placeOfBirth": "2904 Williams Street Wilmette, IL 60091",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "9122 Queen Street Shirley, NY 11967",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Morgan DEAN",
             "img": "morganDEAN.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "36",
+            "skin": "Type V",
+            "eyeColor": "Brown",
+            "height": "175",
+            "weight": "70",
+            "knownFacts": {
+                "dateOfBirth": "19/06/1955",
+                "placeOfBirth": "3697 N. Bayport Dr. Springfield, PA 19064",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "8243 Lake Lane Shakopee, MN 55379",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "01/06/1974",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Gabby BRUCE",
             "img": "gabbyBRUCE.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "9",
+            "skin": "Type II",
+            "eyeColor": "Blue",
+            "height": "136",
+            "weight": "33",
+            "knownFacts": {
+                "dateOfBirth": "13/06/1982",
+                "placeOfBirth": "6174 Old Adams Ave. South Lyon, MI 48178",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "6946 Cleveland Street Salem, MA 02038",
+                "maritalStatus": "Single",
+                "firearmLicense": "No",
+                "knownMedicalRecord": "Metacarpal bone (M III) abnormal growth"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Glen LEE",
             "img": "glenLEE.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "38",
+            "skin": "Type II",
+            "eyeColor": "Blue",
+            "height": "170",
+            "weight": "67",
+            "knownFacts": {
+                "dateOfBirth": "01/10/1953",
+                "placeOfBirth": "2100 Old Bank Street Cottage Grove, MN 55016",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "1040 Old Queen Dr. West New York, NJ 07093",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "19/07/1978",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "06/04/1980",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Logan GATES",
@@ -1908,7 +3089,37 @@
         {
             "name": "Katherine ANDERSON",
             "img": "katherineANDERSON.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "29",
+            "skin": "Type I",
+            "eyeColor": "Blue",
+            "height": "166",
+            "weight": "58",
+            "knownFacts": {
+                "dateOfBirth": "19/08/1962",
+                "placeOfBirth": "1501 Old Hamilton Lane Sicklerville, NJ 08081",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "3182 Lake Street Waukegan, IL 60085",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "21/04/1985",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "17/12/1987",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Cerys DAY",
@@ -1948,7 +3159,24 @@
         {
             "name": "Georgia LANE",
             "img": "georgiaLANE.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "8",
+            "skin": "Type I",
+            "eyeColor": "Green",
+            "height": "127",
+            "weight": "25",
+            "knownFacts": {
+                "dateOfBirth": "06/11/1983",
+                "placeOfBirth": "6139 Old Tunnel Street Waukegan, IL 60085",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "5943 Hamilton Ave. Roselle, IL 60172",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Esme ALLEN",
@@ -2004,22 +3232,97 @@
         {
             "name": "Haven ERICKSON",
             "img": "havenERICKSON.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "34",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "162",
+            "weight": "55",
+            "knownFacts": {
+                "dateOfBirth": "18/07/1957",
+                "placeOfBirth": "6666 E. Bayberry Dr. Lebanon, PA 17042",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "885 High Fremont Dr. Syosset, NY 11791",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Kylee HOLDEN",
             "img": "kyleeHOLDEN.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "29",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "164",
+            "weight": "59",
+            "knownFacts": {
+                "dateOfBirth": "12/09/1962",
+                "placeOfBirth": "9092 W. Hamilton Ave. Syosset, NY 11791",
+                "bloodType": "O-",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "6270 S. Valley View Ave. Roselle, IL 60172",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "02/10/1982",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Olive GENTRY",
             "img": "oliveGENTRY.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "23",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "179",
+            "weight": "66",
+            "knownFacts": {
+                "dateOfBirth": "07/02/1969",
+                "placeOfBirth": "3979 Carriage Ave. Cranford, NJ 07016",
+                "bloodType": "B+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "4211 St Louis Street Fullerton, CA 92831",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Zariyah LYONS",
             "img": "zariyahLYONS.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "19",
+            "skin": "Type I",
+            "eyeColor": "Blue",
+            "height": "166",
+            "weight": "60",
+            "knownFacts": {
+                "dateOfBirth": "04/04/1972",
+                "placeOfBirth": "2671 High Ohio Street Hoboken, NJ 07030",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "9371 Edgewood Street West New York, NJ 07093",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Laylah PRICE",
@@ -2053,7 +3356,24 @@
         {
             "name": "Harvey KING",
             "img": "harveyKING.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "36",
+            "skin": "Type I",
+            "eyeColor": "Green",
+            "height": "185",
+            "weight": "79",
+            "knownFacts": {
+                "dateOfBirth": "15/03/1956",
+                "placeOfBirth": "3779 N. Birchpond Ave. Shirley, NY 11967",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "292 High Monroe Rd. Chaska, MN 55318",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Aaron WHITE",
@@ -2102,17 +3422,75 @@
         {
             "name": "Rory GRAHAM",
             "img": "roryGRAHAM.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "36",
+            "skin": "Type II",
+            "eyeColor": "Blue",
+            "height": "179",
+            "weight": "76",
+            "knownFacts": {
+                "dateOfBirth": "07/04/1955",
+                "placeOfBirth": "243 Queen Ave. Joliet, IL 60435",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "7560 W. Carriage Street Syosset, NY 11791",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Patrick KHAN",
             "img": "patrickKHAN.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "27",
+            "skin": "Type I",
+            "eyeColor": "Blue",
+            "height": "168",
+            "weight": "61",
+            "knownFacts": {
+                "dateOfBirth": "22/02/1965",
+                "placeOfBirth": "233 Williams Ave. San Jose, CA 95127",
+                "bloodType": "B+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "8540 Orchard Dr. Fullerton, CA 92831",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "08/08/1986",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Titus BROCK",
             "img": "titusBROCK.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "42",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "176",
+            "weight": "68",
+            "knownFacts": {
+                "dateOfBirth": "25/10/1949",
+                "placeOfBirth": "9115 Bayberry Dr. West New York, NJ 07093",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "1612 Bank Street Stamford, CT 06902",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Enrique WATTS",
@@ -2139,12 +3517,89 @@
         {
             "name": "Harvey BRYAN",
             "img": "harveyBRYAN.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "45",
+            "skin": "Type III",
+            "eyeColor": "Brown",
+            "height": "168",
+            "weight": "59",
+            "knownFacts": {
+                "dateOfBirth": "16/10/1946",
+                "placeOfBirth": "4767 Ohio Lane Sicklerville, NJ 08081",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "7241 Old Sleepy Hollow Drive Lumberton, NC 28358",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "15/07/1972",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                },
+                {
+                    "date": "12/02/1964",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "23/06/1969",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "25/01/1988",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                },
+                {
+                    "date": "29/11/1968",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "21/09/1973",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "30/05/1985",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Teagan RICHARDSON",
             "img": "teaganRICHARDSON.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Female",
+            "age": "26",
+            "skin": "Type III",
+            "eyeColor": "Brown",
+            "height": "170",
+            "weight": "64",
+            "knownFacts": {
+                "dateOfBirth": "14/01/1966",
+                "placeOfBirth": "8859 Point Rd. San Jose, CA 95127",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "5522 Carriage Ave. Memphis, TN 38106",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": []
         },
         {
             "name": "Donte FOX",
@@ -2178,7 +3633,31 @@
         {
             "name": "Gabe ROSE",
             "img": "gabeROSE.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "38",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "182",
+            "weight": "72",
+            "knownFacts": {
+                "dateOfBirth": "12/09/1953",
+                "placeOfBirth": "7259 High Pawnee Ave. Jackson Heights, NY 11372",
+                "bloodType": "A+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "4496 Catherine Ave. Franklin, MA 02038",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "09/06/1987",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Sacha COLE",
@@ -2211,7 +3690,37 @@
         {
             "name": "Gabby MILLS",
             "img": "gabbyMILLS.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "64",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "175",
+            "weight": "64",
+            "knownFacts": {
+                "dateOfBirth": "19/03/1928",
+                "placeOfBirth": "4594 Point Lane Hoboken, NJ 07030",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "3925 E. Queen Street West New York, NJ 07093",
+                "maritalStatus": "Married",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "02/04/1964",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "17/12/1974",
+                    "code": "07-47",
+                    "descrption": "Improper passing",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Casey GRANT",
@@ -2238,12 +3747,66 @@
         {
             "name": "Glenn GEORGE",
             "img": "glennGEORGE.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "29",
+            "skin": "Type II",
+            "eyeColor": "Brown",
+            "height": "172",
+            "weight": "63",
+            "knownFacts": {
+                "dateOfBirth": "06/04/1962",
+                "placeOfBirth": "9882 Monroe Street Cottage Grove, MN 55016",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "1813 S. Queen Ave. Springfield, PA 19064",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "24/06/1980",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "24/08/1986",
+                    "code": "07-23",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Sam BLAKE",
             "img": "samBLAKE.png",
-            "status": "Missing"
+            "status": "Missing",
+            "sex": "Male",
+            "age": "38",
+            "skin": "Type II",
+            "eyeColor": "Blue",
+            "height": "181",
+            "weight": "69",
+            "knownFacts": {
+                "dateOfBirth": "28/08/1953",
+                "placeOfBirth": "1518 Birchpond Lane Stamford, CT 06902",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "8355 Birchpond Street Stamford, CT 06902",
+                "maritalStatus": "Single",
+                "firearmLicense": "No"
+            },
+            "criminalRecord": [
+                {
+                    "date": "25/10/1986",
+                    "code": "07-47",
+                    "descrption": "Improper passing",
+                    "term": "N/A"
+                }
+            ]
         },
         {
             "name": "Barry WALKER",
@@ -2264,10 +3827,10 @@
                 "lastKnownAddress": "1554 Old Lake Street Shakopee, VA 55379",
                 "maritalStatus": "Married",
                 "firearmLicense": "Yes",
-                "occupation": "FDI Agent",
-                "fingerprints": "true"
+                "occupation": "FDI Agent"
             },
-            "criminalRecord": []
+            "criminalRecord": [],
+            "fingerprints": "true"
         },
         {
             "name": "Brittany HOLT",
@@ -2304,14 +3867,14 @@
             "knownFacts": {
                 "dateOfBirth": "13/10/1962",
                 "placeOfBirth": "8 Fairview Drive Maplewood, NJ 07040",
-                "bloodType": "07/03/1992",
+                "dateOfDeath": "07/03/1992",
                 "scarsMarks": "None",
                 "aliases": "Ray \"Small Fingers\" Wells",
-                "lastKnownAddress": "130 Laurel St. Culpepper, VA 20136",
+                "occupation": "None",
+                "bloodType": "A+",
                 "maritalStatus": "Single",
                 "firearmLicense": "No",
-                "occupation": "None",
-                "fingerprints": "true"
+                "lastKnownAddress": "130 Laurel St. Culpepper, VA 20136"
             },
             "criminalRecord": [
                 {
@@ -2321,12 +3884,19 @@
                     "term": "1y 0m 15d"
                 },
                 {
-                    "date": "01/02/1990",
-                    "code": "12-08",
-                    "descrption": "Grand Theft Auto",
-                    "term": "N.A"
+                    "date": "12/04/1987",
+                    "code": "30-33",
+                    "descrption": "Possession of drugs with intent to sell",
+                    "term": "0y 6m 0d"
+                },
+                {
+                    "date": "07/12/1986",
+                    "code": "30-33",
+                    "descrption": "Possession of drugs with intent to sell",
+                    "term": "N/A"
                 }
-            ]
+            ],
+            "fingerprints": "true"
         },
         {
             "name": "Fred SMORKINSKI",
@@ -2422,8 +3992,8 @@
                 "firearmLicense": "No",
                 "occupation": "Unknown, former FDI Operator"
             },
-            "fingerprints": "true",
-            "criminalRecord": []
+            "criminalRecord": [],
+            "fingerprints": "true"
         },
         {
             "name": "Katherine ANDREWS",
@@ -2446,8 +4016,8 @@
                 "firearmLicense": "Yes",
                 "occupation": "FDI Agent"
             },
-            "fingerprints": "true",
-            "criminalRecord": []
+            "criminalRecord": [],
+            "fingerprints": "true"
         },
         {
             "name": "Semaj HENDERSON",
@@ -2490,8 +4060,8 @@
                 "firearmLicense": "Yes",
                 "occupation": "FDI Operator Supervisor"
             },
-            "fingerprints": "true",
-            "criminalRecord": []
+            "criminalRecord": [],
+            "fingerprints": "true"
         },
         {
             "name": "Mike TRENCH",
@@ -2514,8 +4084,8 @@
                 "firearmLicense": "Yes",
                 "occupation": "FDI Operator Program Director"
             },
-            "fingerprints": "true",
-            "criminalRecord": []
+            "criminalRecord": [],
+            "fingerprints": "true"
         },
         {
             "name": "Alexandra PENDELL",
@@ -2537,8 +4107,8 @@
                 "firearmLicense": "Yes",
                 "occupation": "FDI Agent"
             },
-            "fingerprints": "true",
-            "criminalRecord": []
+            "criminalRecord": [],
+            "fingerprints": "true"
         }
     ]
 }
