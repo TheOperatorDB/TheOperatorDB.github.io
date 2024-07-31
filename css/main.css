@@ -2,26 +2,49 @@
 
 * {
   font-family: SourceHanSans, sans-serif !important;
+  font-size: 14px;
+  color: #000758;
 }
 
-.welcome-text {
-  color: white;
+.justify-content-center > .border {
+  min-width: 100px;
+}
+
+.figure {
+  margin-bottom: 0;
+  font-size: 16px;
+}
+
+.form-control {
+  min-width: 100px;
+  max-width: 180px;
+  height: 30px;
+}
+
+.form-select {
+  min-width: 100px;
+  max-width: 180px;
+}
+
+
+.primary {
+  color: #000758;
 }
 
 .red {
-  color: #dc3545 !important;
+  color: #dc3545;
 }
 
 .green {
-  color: #198754 !important
+  color: #198754;
 }
 
 .orange {
-  color: #ffc107 !important;
+  color: #ffc107;
 }
 
 .d-flex {
-  gap:20px;
+  gap: 20px;
 }
 
 .btn {
@@ -38,94 +61,13 @@ li {
   vertical-align: top;
 }
 
-html, body, .background { /* so that the #dv can fill up the page */
-  width:100%;
-  height:100%;
-}
-
-.background {
-  background: url('../images/home/fdi_logo.png') no-repeat 0 0;
-  background-position: center;
-}
-
-tr {
-  height: 44px !important;
-  max-height: 44px !important;
-  min-height: 44px !important;
-}
-
-td {
-  line-height: 44px;
-  padding: 0 !important;
-  padding-left: 10px !important;
-}
-
-.form-select {
-  height: 58px !important;
-}
-
-.container-fluid {
-  padding-top: 5rem;
-  padding-left: 300px !important;
-  padding-right: 100px !important;
-}
-
 .bannerDiv {
-  z-index: 50;
-  margin: 0;
-  padding: 0;
-  position: fixed;
-  width: 100%; 
-  height: 50px; 
-  background-color: gray; 
-  color:white
-}
-
-.bannerText {
-  :link, :visited, :link:active, :visited:active { color: #FFFFFF; };
-  color: white;
-  text-align: center; 
-  vertical-align: middle; 
+  height: 43px; 
+  text-align: center;
+  vertical-align: middle;
   line-height: 50px;
 }
 
-.githubLink {
-  text-decoration: underline;
-}
-
-.sidebar {
-  margin: 0;
-  padding: 0;
-  padding-top: 50px;
-  width: 200px;
-  background-color: #f1f1f1;
-  position: fixed;
-  height: 100%;
-  overflow: auto;
-}
-
-.sidebar a {
-  border: 2px solid transparent;
-  display: block;
-  color: black;
-  padding: 16px;
-  text-decoration: none;
-}
-
-.sidebar a.active {
-  border: 2px solid transparent;
-  background-color: #00010d;;
-  color: white;
-}
-
-.sidebar a:hover:not(.active) {
-  border: 2px solid #9dffff;
-  background-color: white;
-  color: #000316;
-}
-
-div.content {
-  margin-left: 200px;
-  padding: 1px 16px;
-  height: 1000px;
+.container .row {
+  height: 100vh;
 }

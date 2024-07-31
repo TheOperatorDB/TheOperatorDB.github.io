@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>The operator DB</title>
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row flex-nowrap">
+            <div class="col-1 px-0 bg-light border-end">
+                <div class="d-flex flex-column pt-5 text-white min-vh-100">
+                    <ul class="nav flex-column">
+                        <li class="border-top">
+                            <a href="/index.html" class="nav-link px-0 align-middle">
+                                <figure class="figure mx-auto d-block text-center">
+                                    <img src="/images/homeIcon.png" class="figure-img">
+                                    <figcaption class="figure-caption text-center primary">Home</figcaption>
+                                </figure>
+                            </a>
+                        </li>
+                        <li class="border-top">
+                            <a href="/html/humanDB.html" class="nav-link px-0 align-middle">
+                                <figure class="figure mx-auto d-block text-center">
+                                    <img src="/images/humanDBIcon.png" class="figure-img">
+                                    <figcaption class="figure-caption text-center primary">Human DB</figcaption>
+                                </figure>
+                            </a>
+                        </li>
+                        <li class="border-top">
+                            <a href="/html/carDB.html" class="nav-link px-0 align-middle">
+                                <figure class="figure mx-auto d-block text-center">
+                                    <img src="/images/carDBIcon.png" class="figure-img">
+                                    <figcaption class="figure-caption text-center primary">Car DB</figcaption>
+                                </figure>
+                            </a>
+                        </li>
+                        <li class="border-top border-bottom">
+                            <a href="/html/documents.html" class="nav-link px-0 align-middle">
+                                <figure class="figure mx-auto d-block text-center">
+                                    <img src="/images/documentsIcon.png" class="figure-img">
+                                    <figcaption class="figure-caption text-center primary">Documents</figcaption>
+                                </figure>
+                            </a>
+                        </li>
+                        <li class="border-top border-bottom">
+                            <a href="/html/arg.html" class="nav-link px-0 align-middle">
+                                <figure class="figure mx-auto d-block text-center">
+                                    <img src="/images/argIcon.png" class="figure-img">
+                                    <figcaption class="figure-caption text-center primary">ARG</figcaption>
+                                </figure>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-11 px-0 pt-0">
+                <div class="bannerDiv bg-light text-dark border-bottom">
+                    This is an <span class="red">UNOFFICIAL</span> website about The Operator. For any question or
+                    suggestion you can open an issue <a
+                        href="https://github.com/TheOperatorDB/TheOperatorDB.github.io/issues">here</a>.
+                </div>
+
+                <div class="container-fluid pt-5">
+                    <div class="d-flex justify-content-center pb-5">
+                        <div class="form-floating">
+                            <input class="form-control" id="searchInput" placeholder="Name" onkeyup="displayHumanDB()">
+                            <label for="searchInput">Name</label>
+                        </div>
+                        <select class="form-select" id="sex" aria-label="Sex" onchange="displayHumanDB()">
+                            <option value="" selected>Sex</option>
+                            <option value="male">Male</option>
+                            <option value="female">Female</option>
+                        </select>
+                        <select class="form-select" id="eyeColor" aria-label="Eye color" onchange="displayHumanDB()">
+                            <option value="" selected>Eye</option>
+                            <option value="blue">Blue</option>
+                            <option value="brown">Brown</option>
+                            <option value="green">Green</option>
+                        </select>
+                        <select class="form-select" id="skin" aria-label="Skin" onchange="displayHumanDB()">
+                            <option value="" selected>Skin</option>
+                            <option value="type i">Type I</option>
+                            <option value="type ii">Type II</option>
+                            <option value="type iii">Type III</option>
+                            <option value="type iv">Type IV</option>
+                            <option value="type v">Type V</option>
+                        </select>
+                        <select class="form-select" id="bloodType" aria-label="Blood" onchange="displayHumanDB()">
+                            <option value="" selected>Blood Type</option>
+                            <option value="a+">A+</option>
+                            <option value="a-">A-</option>
+                            <option value="ab+">AB+</option>
+                            <option value="ab-">AB-</option>
+                            <option value="b+">B+</option>
+                            <option value="b-">B-</option>
+                            <option value="o+">O+</option>
+                            <option value="o-">O-</option>
+                            <option value="unknown">Unknown</option>
+                        </select>
+                        <select class="form-select" id="criminalRecord" aria-label="Criminal Record"
+                            onchange="displayHumanDB()">
+                            <option value="" selected>Criminal Record</option>
+                            <option value="yes">Yes</option>
+                            <option value="no">No</option>
+                        </select>
+                        <select class="form-select" id="fingerprints" aria-label="Fingerprints"
+                            onchange="displayHumanDB()">
+                            <option value="" selected>Fingerprints</option>
+                            <option value="yes">Yes</option>
+                            <option value="no">No</option>
+                        </select>
+                        <select class="form-select" id="status" aria-label="Status" onchange="displayHumanDB()">
+                            <option value="" selected>Status</option>
+                            <option value="alive">Alive</option>
+                            <option value="missing">Missing</option>
+                            <option value="dead">Dead</option>
+                        </select>
+                    </div>
+                    <table class="table table-striped table-sm">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Name</th>
+                                <th>Sex</th>
+                                <th>Age</th>
+                                <th>Marital status</th>
+                                <th>Last known address</th>
+                                <th>Occupation</th>
+                                <th>Criminal record</th>
+                                <th>Fingerprints</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody id="humanDB">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="/js/humanDB.js"></script>
+</body>
+
+</html>

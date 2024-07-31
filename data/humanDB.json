@@ -13,11 +13,11 @@
             "weight": "68",
             "knownFacts": {
                 "dateOfBirth": "09/12/1959",
-                "placeOfBirth": "4635 High Bayberry Drive Syosset, NY 11791",
+                "placeOfBirth": "4635 High Bayberry Drive\nSyosset, NY 11791",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "6627 Homewood Drive Washington, D.C. 20058",
+                "lastKnownAddress": "6627 Homewood Drive\nWashington, D.C. 20058",
                 "maritalStatus": "Single",
                 "firearmLicense": "No",
                 "occupation": "FDI Operator"
@@ -93,11 +93,11 @@
             "weight": "54",
             "knownFacts": {
                 "dateOfBirth": "04/08/1963",
-                "placeOfBirth": "9 S. Depot Street Ontario, CA 91762",
+                "placeOfBirth": "9 S. Depot Street\nOntario, CA 91762",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "620 E. Catherine Ave. Pittsburgh, PA 15206",
+                "lastKnownAddress": "620 E. Catherine Ave.\nPittsburgh, PA 15206",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -105,7 +105,7 @@
         },
         {
             "name": "Dane LOWE",
-            "img": "DaneLOWE.png",
+            "img": "daneLOWE.png",
             "status": "Missing",
             "sex": "Male",
             "age": "32",
@@ -115,11 +115,11 @@
             "weight": "75",
             "knownFacts": {
                 "dateOfBirth": "28/03/1959",
-                "placeOfBirth": "3904 S. Depot Rd. West New York, NJ 07093",
+                "placeOfBirth": "3904 S. Depot Rd.\nWest New York, NJ 07093",
                 "bloodType": "B+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1670 Edgewood Lane Waukegan, IL 60085",
+                "lastKnownAddress": "1670 Edgewood Lane\nWaukegan, IL 60085",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -137,11 +137,11 @@
             "weight": "70",
             "knownFacts": {
                 "dateOfBirth": "30/05/1959",
-                "placeOfBirth": "8351 Jackson Dr. Roselle, IL 60172",
+                "placeOfBirth": "8351 Jackson Dr.\nRoselle, IL 60172",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5769 Birchpond Street Springfield, PA 19064",
+                "lastKnownAddress": "5769 Birchpond Street\nSpringfield, PA 19064",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -159,11 +159,11 @@
             "weight": "58",
             "knownFacts": {
                 "dateOfBirth": "16/08/1960",
-                "placeOfBirth": "7264 W. Birchpond Rd. Sicklerville, NJ 08081",
+                "placeOfBirth": "7264 W. Birchpond Rd.\nSicklerville, NJ 08081",
                 "bloodType": "A-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "21 N. Bayport Dr. Frankin, MA 02038",
+                "lastKnownAddress": "21 N. Bayport Dr.\nFrankin, MA 02038",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -181,11 +181,11 @@
             "weight": "64",
             "knownFacts": {
                 "dateOfBirth": "02/02/1962",
-                "placeOfBirth": "7538 High St Louis Drive Waukegan, IL 60085",
+                "placeOfBirth": "7538 High St Louis Drive\nWaukegan, IL 60085",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4016 Pawnee Ave. Central Islip, NY 11722",
+                "lastKnownAddress": "4016 Pawnee Ave.\nCentral Islip, NY 11722",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -216,11 +216,11 @@
             "weight": "63",
             "knownFacts": {
                 "dateOfBirth": "03/12/1964",
-                "placeOfBirth": "35 Catherine Dr. Memphis, TN 38106",
+                "placeOfBirth": "35 Catherine Dr.\nMemphis, TN 38106",
                 "bloodType": "AB+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4752 Homewood Dr. Memphis, TN 38106",
+                "lastKnownAddress": "4752 Homewood Dr.\nMemphis, TN 38106",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -238,11 +238,11 @@
             "weight": "58",
             "knownFacts": {
                 "dateOfBirth": "30/06/1954",
-                "placeOfBirth": "2528 W. Catherine Street Springfield, PA 19064",
+                "placeOfBirth": "2528 W. Catherine Street\nSpringfield, PA 19064",
                 "bloodType": "B+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "7107 W. Sawton Rd. Jackson Heights, NY 11372",
+                "lastKnownAddress": "7107 W. Sawton Rd.\nJackson Heights, NY 11372",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -297,11 +297,11 @@
             "weight": "66",
             "knownFacts": {
                 "dateOfBirth": "16/06/1960",
-                "placeOfBirth": "7343 W. Edgewood Lane Waukegan, IL 60084",
+                "placeOfBirth": "7343 W. Edgewood Lane\nWaukegan, IL 60084",
                 "bloodType": "B-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "2437 Ohio Ave. Sicklerville, NJ 08081",
+                "lastKnownAddress": "2437 Ohio Ave.\nSicklerville, NJ 08081",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -319,11 +319,11 @@
             "weight": "75",
             "knownFacts": {
                 "dateOfBirth": "07/09/1958",
-                "placeOfBirth": "2231 Hamilton Dr. Ontario, CA 91762",
+                "placeOfBirth": "2231 Hamilton Dr.\nOntario, CA 91762",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "93 N. Deerfield Dr. Cottage Grove, MN 55016",
+                "lastKnownAddress": "93 N. Deerfield Dr.\nCottage Grove, MN 55016",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -341,11 +341,11 @@
             "weight": "69",
             "knownFacts": {
                 "dateOfBirth": "22/02/1969",
-                "placeOfBirth": "5403 W. Ohio Drive Ontario, CA 91762",
+                "placeOfBirth": "5403 W. Ohio Drive\nOntario, CA 91762",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "6202 S. Mayfair Dr. Franklin, MA 02038",
+                "lastKnownAddress": "6202 S. Mayfair Dr.\nFranklin, MA 02038",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -376,11 +376,11 @@
             "weight": "58",
             "knownFacts": {
                 "dateOfBirth": "16/12/1973",
-                "placeOfBirth": "3452 Windfall Street West New York, NJ 07093",
+                "placeOfBirth": "3452 Windfall Street\nWest New York, NJ 07093",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1630 N. Bayberry Street Jackson Heights, NY 11372",
+                "lastKnownAddress": "1630 N. Bayberry Street\nJackson Heights, NY 11372",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -398,11 +398,11 @@
             "weight": "71",
             "knownFacts": {
                 "dateOfBirth": "15/02/1960",
-                "placeOfBirth": "9474 Orchard Dr. Sicklerville, NJ 08081",
+                "placeOfBirth": "9474 Orchard Dr.\nSicklerville, NJ 08081",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1229 Homewood Ave. Central Islip, NY 11722",
+                "lastKnownAddress": "1229 Homewood Ave.\nCentral Islip, NY 11722",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -427,11 +427,11 @@
             "weight": "58",
             "knownFacts": {
                 "dateOfBirth": "11/05/1960",
-                "placeOfBirth": "627 Old Monroe Ave. Chaska, MN 55318",
+                "placeOfBirth": "627 Old Monroe Ave.\nChaska, MN 55318",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5269 N. Depot Rd. Joliet, IL 60435",
+                "lastKnownAddress": "5269 N. Depot Rd.\nJoliet, IL 60435",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -449,11 +449,11 @@
             "weight": "60",
             "knownFacts": {
                 "dateOfBirth": "06/09/1963",
-                "placeOfBirth": "1543 Fremont Lane Franklin, MA 02038",
+                "placeOfBirth": "1543 Fremont Lane\nFranklin, MA 02038",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "7115 Brichpond Lane Kokomo, IN 46901",
+                "lastKnownAddress": "7115 Brichpond Lane\nKokomo, IN 46901",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -471,11 +471,11 @@
             "weight": "72",
             "knownFacts": {
                 "dateOfBirth": "11/03/1962",
-                "placeOfBirth": "963 E. Ohio Ave. West New York, NJ 07093",
+                "placeOfBirth": "963 E. Ohio Ave.\nWest New York, NJ 07093",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "3918 W. Tanglewood Lane Cranford, NJ 07016",
+                "lastKnownAddress": "3918 W. Tanglewood Lane\nCranford, NJ 07016",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -493,11 +493,11 @@
             "weight": "74",
             "knownFacts": {
                 "dateOfBirth": "15/04/1965",
-                "placeOfBirth": "9389 Birchpond Lane Cranford, NJ 07016",
+                "placeOfBirth": "9389 Birchpond Lane\nCranford, NJ 07016",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "931 Dunbar Street Shakopee, MN 55379",
+                "lastKnownAddress": "931 Dunbar Street\nShakopee, MN 55379",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -522,11 +522,11 @@
             "weight": "60",
             "knownFacts": {
                 "dateOfBirth": "08/08/1962",
-                "placeOfBirth": "3497 S. Mayfair Lane Lebanon, PA 17042",
+                "placeOfBirth": "3497 S. Mayfair Lane\nLebanon, PA 17042",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "3611 York Ave. Vista, CA 92083",
+                "lastKnownAddress": "3611 York Ave.\nVista, CA 92083",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -544,11 +544,11 @@
             "weight": "64",
             "knownFacts": {
                 "dateOfBirth": "26/03/1935",
-                "placeOfBirth": "4057 Bayberry Street Woodside, NY 11377",
+                "placeOfBirth": "4057 Bayberry Street\nWoodside, NY 11377",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "7872 Hamilton Ave. Chaska, MN 55318",
+                "lastKnownAddress": "7872 Hamilton Ave.\nChaska, MN 55318",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -566,11 +566,11 @@
             "weight": "64",
             "knownFacts": {
                 "dateOfBirth": "16/03/1952",
-                "placeOfBirth": "5281 N. Saxton Lane Kokomo, IN 46901",
+                "placeOfBirth": "5281 N. Saxton Lane\nKokomo, IN 46901",
                 "bloodType": "AB+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "9878 N. Deerfield Lane Hoboken, NJ 07030",
+                "lastKnownAddress": "9878 N. Deerfield Lane\nHoboken, NJ 07030",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -588,11 +588,11 @@
             "weight": "84",
             "knownFacts": {
                 "dateOfBirth": "27/09/1956",
-                "placeOfBirth": "8794 Pawnee Lane Wilmette, IL 60091",
+                "placeOfBirth": "8794 Pawnee Lane\nWilmette, IL 60091",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "6693 N. Depot Dr. Chaska, MN 55318",
+                "lastKnownAddress": "6693 N. Depot Dr.\nChaska, MN 55318",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -610,11 +610,11 @@
             "weight": "52",
             "knownFacts": {
                 "dateOfBirth": "02/03/1945",
-                "placeOfBirth": "9380 E. Hamilton Drive Central Islip, NY 11722",
+                "placeOfBirth": "9380 E. Hamilton Drive\nCentral Islip, NY 11722",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "768 Lake Street Wooster, NY 11791",
+                "lastKnownAddress": "768 Lake Street\nWooster, NY 11791",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -645,11 +645,11 @@
             "weight": "66",
             "knownFacts": {
                 "dateOfBirth": "19/10/1963",
-                "placeOfBirth": "7255 N. Pawnee Ave. Chaska, MN 55318",
+                "placeOfBirth": "7255 N. Pawnee Ave.\nChaska, MN 55318",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5609 Depot Street Kokomo, IN 46901",
+                "lastKnownAddress": "5609 Depot Street\nKokomo, IN 46901",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -674,11 +674,11 @@
             "weight": "50",
             "knownFacts": {
                 "dateOfBirth": "02/06/1950",
-                "placeOfBirth": "4191 S. Pawnee Lane Springfield, PA 19064",
+                "placeOfBirth": "4191 S. Pawnee Lane\nSpringfield, PA 19064",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "7891 W. Pawnee Dr. San Jose, CA 95127",
+                "lastKnownAddress": "7891 W. Pawnee Dr.\nSan Jose, CA 95127",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -709,11 +709,11 @@
             "weight": "53",
             "knownFacts": {
                 "dateOfBirth": "22/05/1965",
-                "placeOfBirth": "3085 Ohio Ave. Wilmette, IL 60091",
+                "placeOfBirth": "3085 Ohio Ave.\nWilmette, IL 60091",
                 "bloodType": "B+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "8886 Lake Dr. Joliet, IL 60435",
+                "lastKnownAddress": "8886 Lake Dr.\nJoliet, IL 60435",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -731,11 +731,11 @@
             "weight": "62",
             "knownFacts": {
                 "dateOfBirth": "04/05/1966",
-                "placeOfBirth": "9847 St Louis Drive Fullerton, CA 92831",
+                "placeOfBirth": "9847 St Louis Drive\nFullerton, CA 92831",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1587 High Carriage Dr. Jackson Heights, NY 11372",
+                "lastKnownAddress": "1587 High Carriage Dr.\nJackson Heights, NY 11372",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -766,11 +766,11 @@
             "weight": "62",
             "knownFacts": {
                 "dateOfBirth": "07/11/1934",
-                "placeOfBirth": "5780 Tunnel Rd. West New York, NJ 07093",
+                "placeOfBirth": "5780 Tunnel Rd.\nWest New York, NJ 07093",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4254 N. Mayfair Dr. West New York, NJ 07093",
+                "lastKnownAddress": "4254 N. Mayfair Dr.\nWest New York, NJ 07093",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -801,11 +801,11 @@
             "weight": "54",
             "knownFacts": {
                 "dateOfBirth": "02/07/1971",
-                "placeOfBirth": "7725 Old Sleepy Hollow Lane Springfield, PA 19064",
+                "placeOfBirth": "7725 Old Sleepy Hollow Lane\nSpringfield, PA 19064",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1588 Bridge Street Lumberton, NC 28358",
+                "lastKnownAddress": "1588 Bridge Street\nLumberton, NC 28358",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -836,11 +836,11 @@
             "weight": "57",
             "knownFacts": {
                 "dateOfBirth": "27/08/1963",
-                "placeOfBirth": "8074 Fremont Ave. Cranford, NJ 07016",
+                "placeOfBirth": "8074 Fremont Ave.\nCranford, NJ 07016",
                 "bloodType": "AB+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "7395 W. Bank Street Lumberton, NC 28358",
+                "lastKnownAddress": "7395 W. Bank Street\nLumberton, NC 28358",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -865,11 +865,11 @@
             "weight": "59",
             "knownFacts": {
                 "dateOfBirth": "23/12/1952",
-                "placeOfBirth": "4747 N. Cleveland Dr. Chaska, MN 55318",
+                "placeOfBirth": "4747 N. Cleveland Dr.\nChaska, MN 55318",
                 "bloodType": "B-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "35 N. Fremont Dr. Lebanon, PA 17042",
+                "lastKnownAddress": "35 N. Fremont Dr.\nLebanon, PA 17042",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -894,11 +894,11 @@
             "weight": "58",
             "knownFacts": {
                 "dateOfBirth": "07/07/1955",
-                "placeOfBirth": "8974 Deerfield Lane Central Islip, NY 11722",
+                "placeOfBirth": "8974 Deerfield Lane\nCentral Islip, NY 11722",
                 "bloodType": "B+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4317 Queen Dr. Zion, IL 60099",
+                "lastKnownAddress": "4317 Queen Dr.\nZion, IL 60099",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -916,11 +916,11 @@
             "weight": "86",
             "knownFacts": {
                 "dateOfBirth": "12/01/1942",
-                "placeOfBirth": "6896 Birchpond Street Lumberton, NC 28358",
+                "placeOfBirth": "6896 Birchpond Street\nLumberton, NC 28358",
                 "bloodType": "A-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5779 Mulberry Dr. Chaska, MN 55318",
+                "lastKnownAddress": "5779 Mulberry Dr.\nChaska, MN 55318",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -945,11 +945,11 @@
             "weight": "76",
             "knownFacts": {
                 "dateOfBirth": "06/12/1953",
-                "placeOfBirth": "2124 Dunbar Street Chaska, MN 55318",
+                "placeOfBirth": "2124 Dunbar Street\nChaska, MN 55318",
                 "bloodType": "B-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4893 Homewood Ave. Jersey, PA 17543",
+                "lastKnownAddress": "4893 Homewood Ave.\nJersey, PA 17543",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -967,11 +967,11 @@
             "weight": "82",
             "knownFacts": {
                 "dateOfBirth": "18/01/1962",
-                "placeOfBirth": "7376 Old Windfall Rd. Franklin, MA 02038",
+                "placeOfBirth": "7376 Old Windfall Rd.\nFranklin, MA 02038",
                 "bloodType": "A-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "3512 S. Edgewood Lane Stamford, CT 06902",
+                "lastKnownAddress": "3512 S. Edgewood Lane\nStamford, CT 06902",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -989,11 +989,11 @@
             "weight": "77",
             "knownFacts": {
                 "dateOfBirth": "17/12/1926",
-                "placeOfBirth": "8723 E. Birchpond Ave. Woodside, NY 11377",
+                "placeOfBirth": "8723 E. Birchpond Ave.\nWoodside, NY 11377",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "296 S. Point Street San Jose, CA 95127",
+                "lastKnownAddress": "296 S. Point Street\nSan Jose, CA 95127",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -1011,11 +1011,11 @@
             "weight": "66",
             "knownFacts": {
                 "dateOfBirth": "05/07/1961",
-                "placeOfBirth": "9862 Fremont Street Springfield, PA 19064",
+                "placeOfBirth": "9862 Fremont Street\nSpringfield, PA 19064",
                 "bloodType": "AB+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "390 S. Deerfield Rd. Lititz, PA 17543",
+                "lastKnownAddress": "390 S. Deerfield Rd.\nLititz, PA 17543",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -1033,11 +1033,11 @@
             "weight": "70",
             "knownFacts": {
                 "dateOfBirth": "16/09/1968",
-                "placeOfBirth": "5784 N. York Dr. Franklin, MA 02038",
+                "placeOfBirth": "5784 N. York Dr.\nFranklin, MA 02038",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "2394 S. Homewood Ave. Sicklerville, NJ 08081",
+                "lastKnownAddress": "2394 S. Homewood Ave.\nSicklerville, NJ 08081",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1062,11 +1062,11 @@
             "weight": "63",
             "knownFacts": {
                 "dateOfBirth": "08/11/1972",
-                "placeOfBirth": "9255 E. Deerfield Lane Lebanon, PA 17042",
+                "placeOfBirth": "9255 E. Deerfield Lane\nLebanon, PA 17042",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4639 E. Valley View Street Sicklerville, NJ 08081",
+                "lastKnownAddress": "4639 E. Valley View Street\nSicklerville, NJ 08081",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -1084,11 +1084,11 @@
             "weight": "63",
             "knownFacts": {
                 "dateOfBirth": "18/11/1962",
-                "placeOfBirth": "857 Dunbar Dr. Sicklerville, NJ 08081",
+                "placeOfBirth": "857 Dunbar Dr.\nSicklerville, NJ 08081",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "2684 Pawnee Street Woodside, NY 11377",
+                "lastKnownAddress": "2684 Pawnee Street\nWoodside, NY 11377",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1106,11 +1106,11 @@
             "weight": "52",
             "knownFacts": {
                 "dateOfBirth": "23/05/1954",
-                "placeOfBirth": "550 N. Orchard Street Stamford, CT 06902",
+                "placeOfBirth": "550 N. Orchard Street\nStamford, CT 06902",
                 "bloodType": "A-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "2685 W. Sleepy Hollow Dr. Woodside, NY 11377",
+                "lastKnownAddress": "2685 W. Sleepy Hollow Dr.\nWoodside, NY 11377",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -1151,11 +1151,11 @@
             "weight": "65",
             "knownFacts": {
                 "dateOfBirth": "14/07/1952",
-                "placeOfBirth": "1436 Birchpond Street Woodside, NY 11377",
+                "placeOfBirth": "1436 Birchpond Street\nWoodside, NY 11377",
                 "bloodType": "AB+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4758 Mayfair Lane Lebanon, PA 17042",
+                "lastKnownAddress": "4758 Mayfair Lane\nLebanon, PA 17042",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -1180,11 +1180,11 @@
             "weight": "62",
             "knownFacts": {
                 "dateOfBirth": "30/03/1948",
-                "placeOfBirth": "2962 S. St Louis Lane Lebanon, PA 17042",
+                "placeOfBirth": "2962 S. St Louis Lane\nLebanon, PA 17042",
                 "bloodType": "AB+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4873 Old Union Ave. Lititz, PA 17543",
+                "lastKnownAddress": "4873 Old Union Ave.\nLititz, PA 17543",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1202,11 +1202,11 @@
             "weight": "71",
             "knownFacts": {
                 "dateOfBirth": "04/10/1970",
-                "placeOfBirth": "3986 High Mulberry Street Lititz, PA 17543",
+                "placeOfBirth": "3986 High Mulberry Street\nLititz, PA 17543",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "8297 S. Birchpond Lane Wilmette, IL 60091",
+                "lastKnownAddress": "8297 S. Birchpond Lane\nWilmette, IL 60091",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1224,11 +1224,11 @@
             "weight": "60",
             "knownFacts": {
                 "dateOfBirth": "16/01/1960",
-                "placeOfBirth": "6779 W. Williams Ave. Roselle, IL 60172",
+                "placeOfBirth": "6779 W. Williams Ave.\nRoselle, IL 60172",
                 "bloodType": "A-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "6648 Over Rd. Fullerton, CA 92831",
+                "lastKnownAddress": "6648 Over Rd.\nFullerton, CA 92831",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1246,11 +1246,11 @@
             "weight": "68",
             "knownFacts": {
                 "dateOfBirth": "19/01/1965",
-                "placeOfBirth": "9817 E. Point Rd. Kokomo, IN 46901",
+                "placeOfBirth": "9817 E. Point Rd.\nKokomo, IN 46901",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "9341 S. Tanglewood Ave. West New York, NJ 07093",
+                "lastKnownAddress": "9341 S. Tanglewood Ave.\nWest New York, NJ 07093",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1268,11 +1268,11 @@
             "weight": "66",
             "knownFacts": {
                 "dateOfBirth": "02/08/1934",
-                "placeOfBirth": "6585 S. York Rd. Stamford, CT 06902",
+                "placeOfBirth": "6585 S. York Rd.\nStamford, CT 06902",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "8117 N. Birchpond Ave. Chaska, MN 55318",
+                "lastKnownAddress": "8117 N. Birchpond Ave.\nChaska, MN 55318",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -1303,11 +1303,11 @@
             "weight": "145",
             "knownFacts": {
                 "dateOfBirth": "24/06/1951",
-                "placeOfBirth": "5595 Windfall Lane Cottage Grove, MN 55016",
+                "placeOfBirth": "5595 Windfall Lane\nCottage Grove, MN 55016",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "7144 N. Dunbar Street Fullerton, CA 92831",
+                "lastKnownAddress": "7144 N. Dunbar Street\nFullerton, CA 92831",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1325,11 +1325,11 @@
             "weight": "70",
             "knownFacts": {
                 "dateOfBirth": "30/08/1948",
-                "placeOfBirth": "2637 S. Cleveland Street Pittsburgh, PA 15206",
+                "placeOfBirth": "2637 S. Cleveland Street\nPittsburgh, PA 15206",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5071 High Bridge Ave. Cottage Grove, MN 55016",
+                "lastKnownAddress": "5071 High Bridge Ave.\nCottage Grove, MN 55016",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -1360,11 +1360,11 @@
             "weight": "65",
             "knownFacts": {
                 "dateOfBirth": "22/02/1971",
-                "placeOfBirth": "5234 Tunnel Rd. San Jose, CA 95127",
+                "placeOfBirth": "5234 Tunnel Rd.\nSan Jose, CA 95127",
                 "bloodType": "O-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4269 N. Cleveland Ave. Vista, CA 92083",
+                "lastKnownAddress": "4269 N. Cleveland Ave.\nVista, CA 92083",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1382,11 +1382,11 @@
             "weight": "74",
             "knownFacts": {
                 "dateOfBirth": "08/07/1966",
-                "placeOfBirth": "2983 Homewood Street Memphis, TN 38106",
+                "placeOfBirth": "2983 Homewood Street\nMemphis, TN 38106",
                 "bloodType": "B-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "9216 York Lane Sicklerville, NJ 08081",
+                "lastKnownAddress": "9216 York Lane\nSicklerville, NJ 08081",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1447,11 +1447,11 @@
             "weight": "66",
             "knownFacts": {
                 "dateOfBirth": "07/04/1956",
-                "placeOfBirth": "6158 E. Bank Rd. Shakopee, MN 55379",
+                "placeOfBirth": "6158 E. Bank Rd.\nShakopee, MN 55379",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "2650 Old Tanglewood Dr. Cottage Grove, MN 55016",
+                "lastKnownAddress": "2650 Old Tanglewood Dr.\nCottage Grove, MN 55016",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -1512,11 +1512,11 @@
             "weight": "66",
             "knownFacts": {
                 "dateOfBirth": "28/11/1962",
-                "placeOfBirth": "8446 High Tunnel Ave. West New York, NJ 07093",
+                "placeOfBirth": "8446 High Tunnel Ave.\nWest New York, NJ 07093",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "6140 Windfall Ave. Franklin, MA 02038",
+                "lastKnownAddress": "6140 Windfall Ave.\nFranklin, MA 02038",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1534,11 +1534,11 @@
             "weight": "73",
             "knownFacts": {
                 "dateOfBirth": "29/11/1965",
-                "placeOfBirth": "7992 Fremont Ave. Springfield, PA 19064",
+                "placeOfBirth": "7992 Fremont Ave.\nSpringfield, PA 19064",
                 "bloodType": "B+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "7068 Windfall Dr. Hoboken, NJ 07030",
+                "lastKnownAddress": "7068 Windfall Dr.\nHoboken, NJ 07030",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1593,11 +1593,11 @@
             "weight": "58",
             "knownFacts": {
                 "dateOfBirth": "17/06/1965",
-                "placeOfBirth": "2728 Lake Lane Joliet, IL 60435",
+                "placeOfBirth": "2728 Lake Lane\nJoliet, IL 60435",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1468 Bayberry Dr. Joliet, IL 60435",
+                "lastKnownAddress": "1468 Bayberry Dr.\nJoliet, IL 60435",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -1615,11 +1615,11 @@
             "weight": "56",
             "knownFacts": {
                 "dateOfBirth": "26/10/1964",
-                "placeOfBirth": "6265 Point Ave. South Lyon, MI 48178",
+                "placeOfBirth": "6265 Point Ave.\nSouth Lyon, MI 48178",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "3934 S. Sleepy Hollow Drive Shakopee, MN 55379",
+                "lastKnownAddress": "3934 S. Sleepy Hollow Drive\nShakopee, MN 55379",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1637,11 +1637,11 @@
             "weight": "60",
             "knownFacts": {
                 "dateOfBirth": "02/09/1935",
-                "placeOfBirth": "4356 Birchpond Lane Roselle, IL 60172",
+                "placeOfBirth": "4356 Birchpond Lane\nRoselle, IL 60172",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5649 Cleveland Street Pittsburgh, PA 17042",
+                "lastKnownAddress": "5649 Cleveland Street\nPittsburgh, PA 17042",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -1659,11 +1659,11 @@
             "weight": "76",
             "knownFacts": {
                 "dateOfBirth": "16/05/1959",
-                "placeOfBirth": "9043 Old Mayfair Lane Fullerton, CA 92831",
+                "placeOfBirth": "9043 Old Mayfair Lane\nFullerton, CA 92831",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "2172 Mulberry Ave. Sicklerville, NJ 08081",
+                "lastKnownAddress": "2172 Mulberry Ave.\nSicklerville, NJ 08081",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1694,11 +1694,11 @@
             "weight": "73",
             "knownFacts": {
                 "dateOfBirth": "12/10/1959",
-                "placeOfBirth": "6388 N. Bank Street Roselle, IL 60172",
+                "placeOfBirth": "6388 N. Bank Street\nRoselle, IL 60172",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "6105 Birchpond Street Lebanon, PA 17042",
+                "lastKnownAddress": "6105 Birchpond Street\nLebanon, PA 17042",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1716,11 +1716,11 @@
             "weight": "58",
             "knownFacts": {
                 "dateOfBirth": "05/07/1950",
-                "placeOfBirth": "4793 W. Union Dr. Cottage Grove, MN 55016",
+                "placeOfBirth": "4793 W. Union Dr.\nCottage Grove, MN 55016",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5079 N. Lake Ave. Lititz, PA 17543",
+                "lastKnownAddress": "5079 N. Lake Ave.\nLititz, PA 17543",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1738,11 +1738,11 @@
             "weight": "63",
             "knownFacts": {
                 "dateOfBirth": "29/01/1968",
-                "placeOfBirth": "8799 N. Sleepy Hollow Ave. Cottage Grove, MN 55016",
+                "placeOfBirth": "8799 N. Sleepy Hollow Ave.\nCottage Grove, MN 55016",
                 "bloodType": "B+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4676 High Birchpond Ave. York, PA 17543",
+                "lastKnownAddress": "4676 High Birchpond Ave.\nYork, PA 17543",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -1760,11 +1760,11 @@
             "weight": "62",
             "knownFacts": {
                 "dateOfBirth": "05/11/1948",
-                "placeOfBirth": "9208 S. Pawnee Ave. Kokomo, IN 46901",
+                "placeOfBirth": "9208 S. Pawnee Ave.\nKokomo, IN 46901",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1744 E. Fremont Drive Lititz, PA 17543",
+                "lastKnownAddress": "1744 E. Fremont Drive\nLititz, PA 17543",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1782,11 +1782,11 @@
             "weight": "67",
             "knownFacts": {
                 "dateOfBirth": "17/09/1955",
-                "placeOfBirth": "935 S. Bank Dr. Franklin, MA 02038",
+                "placeOfBirth": "935 S. Bank Dr.\nFranklin, MA 02038",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "3824 Pawnee Ave. Jackson Heights, NY 11372",
+                "lastKnownAddress": "3824 Pawnee Ave.\nJackson Heights, NY 11372",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1804,11 +1804,11 @@
             "weight": "82",
             "knownFacts": {
                 "dateOfBirth": "25/01/1972",
-                "placeOfBirth": "5123 N. Tunnel Drive Sicklerville, NJ 08081",
+                "placeOfBirth": "5123 N. Tunnel Drive\nSicklerville, NJ 08081",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "530 W. Edgewood Lane Wilmette, IL 60091",
+                "lastKnownAddress": "530 W. Edgewood Lane\nWilmette, IL 60091",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1826,11 +1826,11 @@
             "weight": "71",
             "knownFacts": {
                 "dateOfBirth": "23/07/1955",
-                "placeOfBirth": "5194 High Fremont Street Lumberton, NC 28358",
+                "placeOfBirth": "5194 High Fremont Street\nLumberton, NC 28358",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "9093 S. Birchpond Street Cottage Grove, MN 55016",
+                "lastKnownAddress": "9093 S. Birchpond Street\nCottage Grove, MN 55016",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -1861,11 +1861,11 @@
             "weight": "87",
             "knownFacts": {
                 "dateOfBirth": "10/08/1952",
-                "placeOfBirth": "2515 S. Bayport Dr. Pittsburgh, PA 15206",
+                "placeOfBirth": "2515 S. Bayport Dr.\nPittsburgh, PA 15206",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5662 N. Catherine Ave. Wilmette, IL 60091",
+                "lastKnownAddress": "5662 N. Catherine Ave.\nWilmette, IL 60091",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1890,11 +1890,11 @@
             "weight": "67",
             "knownFacts": {
                 "dateOfBirth": "27/11/1950",
-                "placeOfBirth": "6444 Over Drive Cottage Grove, MN 55016",
+                "placeOfBirth": "6444 Over Drive\nCottage Grove, MN 55016",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "8146 Birchpond Street Waukegan, IL 60085",
+                "lastKnownAddress": "8146 Birchpond Street\nWaukegan, IL 60085",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -1950,11 +1950,11 @@
             "weight": "80",
             "knownFacts": {
                 "dateOfBirth": "06/07/1967",
-                "placeOfBirth": "2673 High Dunbar Street Lumberton, NC 28358",
+                "placeOfBirth": "2673 High Dunbar Street\nLumberton, NC 28358",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1317 Birchpond Ave. Vista, CA 92083",
+                "lastKnownAddress": "1317 Birchpond Ave.\nVista, CA 92083",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1972,11 +1972,11 @@
             "weight": "64",
             "knownFacts": {
                 "dateOfBirth": "13/02/1965",
-                "placeOfBirth": "1623 Old Lake Ave. Central Islip, NY 11722",
+                "placeOfBirth": "1623 Old Lake Ave.\nCentral Islip, NY 11722",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "3415 Catherine Street Chaska, MN 55318",
+                "lastKnownAddress": "3415 Catherine Street\nChaska, MN 55318",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -1994,11 +1994,11 @@
             "weight": "62",
             "knownFacts": {
                 "dateOfBirth": "26/01/1969",
-                "placeOfBirth": "2735 S. Catherine Street Jackson Heights, NY 11372",
+                "placeOfBirth": "2735 S. Catherine Street\nJackson Heights, NY 11372",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "7454 N. Birchpond Street Memphis, TN 38106",
+                "lastKnownAddress": "7454 N. Birchpond Street\nMemphis, TN 38106",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -2029,11 +2029,11 @@
             "weight": "74",
             "knownFacts": {
                 "dateOfBirth": "27/12/1965",
-                "placeOfBirth": "4371 E. Cleveland Dr. Roselle, IL 60172",
+                "placeOfBirth": "4371 E. Cleveland Dr.\nRoselle, IL 60172",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "653 Old Queen Street Hoboken, NJ 07030",
+                "lastKnownAddress": "653 Old Queen Street\nHoboken, NJ 07030",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2051,11 +2051,11 @@
             "weight": "75",
             "knownFacts": {
                 "dateOfBirth": "31/10/1962",
-                "placeOfBirth": "5073 E. Edgewood Lane West New York, NJ 07093",
+                "placeOfBirth": "5073 E. Edgewood Lane\nWest New York, NJ 07093",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5586 Pawnee Street Shirley, NY 11967",
+                "lastKnownAddress": "5586 Pawnee Street\nShirley, NY 11967",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -2086,11 +2086,11 @@
             "weight": "49",
             "knownFacts": {
                 "dateOfBirth": "21/08/1959",
-                "placeOfBirth": "3643 W. Birchpond Dr. Lebanon, PA 17042",
+                "placeOfBirth": "3643 W. Birchpond Dr.\nLebanon, PA 17042",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5538 Valley View Ave. Fullerton, CA 92831",
+                "lastKnownAddress": "5538 Valley View Ave.\nFullerton, CA 92831",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2115,11 +2115,11 @@
             "weight": "67",
             "knownFacts": {
                 "dateOfBirth": "24/11/1962",
-                "placeOfBirth": "7231 High Bridge Ave. Zion, IL 60099",
+                "placeOfBirth": "7231 High Bridge Ave.\nZion, IL 60099",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "9465 Bayoport Lane Waukegan, IL 60085",
+                "lastKnownAddress": "9465 Bayoport Lane\nWaukegan, IL 60085",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2137,11 +2137,11 @@
             "weight": "60",
             "knownFacts": {
                 "dateOfBirth": "07/12/1962",
-                "placeOfBirth": "9412 Old Bayberry Ave. Franklin, MA 02038",
+                "placeOfBirth": "9412 Old Bayberry Ave.\nFranklin, MA 02038",
                 "bloodType": "B+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "7000 Tanglewood Dr. Hoboken, NJ 07030",
+                "lastKnownAddress": "7000 Tanglewood Dr.\nHoboken, NJ 07030",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -2166,11 +2166,11 @@
             "weight": "68",
             "knownFacts": {
                 "dateOfBirth": "31/12/1961",
-                "placeOfBirth": "5931 Deerfield Dr. Cranford, NJ 07016",
+                "placeOfBirth": "5931 Deerfield Dr.\nCranford, NJ 07016",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "3733 W. Fremont Lane Lititz, PA 17543",
+                "lastKnownAddress": "3733 W. Fremont Lane\nLititz, PA 17543",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2201,11 +2201,11 @@
             "weight": "72",
             "knownFacts": {
                 "dateOfBirth": "11/01/1956",
-                "placeOfBirth": "7551 Mulberry Ave. Zion, IL 60099",
+                "placeOfBirth": "7551 Mulberry Ave.\nZion, IL 60099",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5077 Old Williams Ave. Kokomo, IN 46901",
+                "lastKnownAddress": "5077 Old Williams Ave.\nKokomo, IN 46901",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2223,11 +2223,11 @@
             "weight": "74",
             "knownFacts": {
                 "dateOfBirth": "19/10/1951",
-                "placeOfBirth": "1838 Pawnee Ave. Chaska, MN 55318",
+                "placeOfBirth": "1838 Pawnee Ave.\nChaska, MN 55318",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "6080 Over Dr. Wilmette, IL 60091",
+                "lastKnownAddress": "6080 Over Dr.\nWilmette, IL 60091",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2252,11 +2252,11 @@
             "weight": "60",
             "knownFacts": {
                 "dateOfBirth": "19/02/1962",
-                "placeOfBirth": "8696 Over Street Lebanon, PA 17042",
+                "placeOfBirth": "8696 Over Street\nLebanon, PA 17042",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "8853 Union Lane Lebanon, PA 17042",
+                "lastKnownAddress": "8853 Union Lane\nLebanon, PA 17042",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2281,11 +2281,11 @@
             "weight": "83",
             "knownFacts": {
                 "dateOfBirth": "05/04/1956",
-                "placeOfBirth": "8893 S. Birchpond Street Cranford, NJ 07016",
+                "placeOfBirth": "8893 S. Birchpond Street\nCranford, NJ 07016",
                 "bloodType": "B+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1828 Tunnel Dr. Cranford, NJ 07016",
+                "lastKnownAddress": "1828 Tunnel Dr.\nCranford, NJ 07016",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2303,11 +2303,11 @@
             "weight": "65",
             "knownFacts": {
                 "dateOfBirth": "24/05/1957",
-                "placeOfBirth": "7557 W. Pawnee Street Ontario, CA 91762",
+                "placeOfBirth": "7557 W. Pawnee Street\nOntario, CA 91762",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "9439 S. Sawton Drive Memphis, TN 38106",
+                "lastKnownAddress": "9439 S. Sawton Drive\nMemphis, TN 38106",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2325,11 +2325,11 @@
             "weight": "58",
             "knownFacts": {
                 "dateOfBirth": "21/06/1968",
-                "placeOfBirth": "4509 Cleveland Lane Sicklerville, NJ 08081",
+                "placeOfBirth": "4509 Cleveland Lane\nSicklerville, NJ 08081",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "6925 York Drive Fullerton, CA 92831",
+                "lastKnownAddress": "6925 York Drive\nFullerton, CA 92831",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2347,11 +2347,11 @@
             "weight": "50",
             "knownFacts": {
                 "dateOfBirth": "18/12/1958",
-                "placeOfBirth": "2647 S. Dunbar Street Cranford, NJ 07016",
+                "placeOfBirth": "2647 S. Dunbar Street\nCranford, NJ 07016",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4446 E. Deerfield Ave. Shirley, NY 11967",
+                "lastKnownAddress": "4446 E. Deerfield Ave.\nShirley, NY 11967",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2382,11 +2382,11 @@
             "weight": "49",
             "knownFacts": {
                 "dateOfBirth": "01/06/1963",
-                "placeOfBirth": "6717 Birchpond Lane Syosset, NY 11791",
+                "placeOfBirth": "6717 Birchpond Lane\nSyosset, NY 11791",
                 "bloodType": "B+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "7861 Old Homewood Street Woodside, NY 11377",
+                "lastKnownAddress": "7861 Old Homewood Street\nWoodside, NY 11377",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2411,11 +2411,11 @@
             "weight": "42",
             "knownFacts": {
                 "dateOfBirth": "14/09/1979",
-                "placeOfBirth": "3216 Fremont Street Jackson Heights, NY 11372",
+                "placeOfBirth": "3216 Fremont Street\nJackson Heights, NY 11372",
                 "bloodType": "B+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "7700 High Birchpond Dr. Kokomo, IN 46901",
+                "lastKnownAddress": "7700 High Birchpond Dr.\nKokomo, IN 46901",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2433,11 +2433,11 @@
             "weight": "61",
             "knownFacts": {
                 "dateOfBirth": "20/03/1963",
-                "placeOfBirth": "6522 Catherine Ave. Kokomo, IN 46901",
+                "placeOfBirth": "6522 Catherine Ave.\nKokomo, IN 46901",
                 "bloodType": "O-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1852 Fremont Dr. South Lyon, MI 48178",
+                "lastKnownAddress": "1852 Fremont Dr.\nSouth Lyon, MI 48178",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2455,11 +2455,11 @@
             "weight": "46",
             "knownFacts": {
                 "dateOfBirth": "02/03/1933",
-                "placeOfBirth": "6557 Bridge Ave. Fullerton, CA 92831",
+                "placeOfBirth": "6557 Bridge Ave.\nFullerton, CA 92831",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "8631 S. Hamilton Lane Shakopee, MN 55379",
+                "lastKnownAddress": "8631 S. Hamilton Lane\nShakopee, MN 55379",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -2477,11 +2477,11 @@
             "weight": "65",
             "knownFacts": {
                 "dateOfBirth": "29/01/1962",
-                "placeOfBirth": "6633 Sleepy Hollow Drive Vista, CA 92083",
+                "placeOfBirth": "6633 Sleepy Hollow Drive\nVista, CA 92083",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1839 Hamilton Drive Hoboken, NJ 07030",
+                "lastKnownAddress": "1839 Hamilton Drive\nHoboken, NJ 07030",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -2499,11 +2499,11 @@
             "weight": "59",
             "knownFacts": {
                 "dateOfBirth": "22/10/1955",
-                "placeOfBirth": "2671 High Union Drive San Jose, CA 95127",
+                "placeOfBirth": "2671 High Union Drive\nSan Jose, CA 95127",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4685 Deerfield Dr. Lumberton, NC 28358",
+                "lastKnownAddress": "4685 Deerfield Dr.\nLumberton, NC 28358",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2534,11 +2534,11 @@
             "weight": "66",
             "knownFacts": {
                 "dateOfBirth": "15/07/1959",
-                "placeOfBirth": "897 W. Hamilton Lane Hoboken, NJ 07030",
+                "placeOfBirth": "897 W. Hamilton Lane\nHoboken, NJ 07030",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "6593 Bayberry Ave. Harrisburg, PA 15206",
+                "lastKnownAddress": "6593 Bayberry Ave.\nHarrisburg, PA 15206",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2563,11 +2563,11 @@
             "weight": "36",
             "knownFacts": {
                 "dateOfBirth": "24/07/1980",
-                "placeOfBirth": "3346 High Jackson Street West New York, NJ 07093",
+                "placeOfBirth": "3346 High Jackson Street\nWest New York, NJ 07093",
                 "bloodType": "O-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4539 S. Point Dr. Lebanon, PA 17042",
+                "lastKnownAddress": "4539 S. Point Dr.\nLebanon, PA 17042",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2585,11 +2585,11 @@
             "weight": "69",
             "knownFacts": {
                 "dateOfBirth": "24/01/1953",
-                "placeOfBirth": "8024 Mayfair Dr. West New York, NJ 07093",
+                "placeOfBirth": "8024 Mayfair Dr.\nWest New York, NJ 07093",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "8872 E. Tanglewood Dr. Lumberton, NC 28358",
+                "lastKnownAddress": "8872 E. Tanglewood Dr.\nLumberton, NC 28358",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2620,11 +2620,11 @@
             "weight": "63",
             "knownFacts": {
                 "dateOfBirth": "22/02/1950",
-                "placeOfBirth": "5492 E. Birchpond Ave. Shakopee, MN 55379",
+                "placeOfBirth": "5492 E. Birchpond Ave.\nShakopee, MN 55379",
                 "bloodType": "O-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "9225 Mayfair Street Boston, MA 02108",
+                "lastKnownAddress": "9225 Mayfair Street\nBoston, MA 02108",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2642,11 +2642,11 @@
             "weight": "60",
             "knownFacts": {
                 "dateOfBirth": "10/06/1968",
-                "placeOfBirth": "9846 E. Mayfair Lane Roselle, IL 60172",
+                "placeOfBirth": "9846 E. Mayfair Lane\nRoselle, IL 60172",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "9072 S. Valley View Dr. Vista, CA 92083",
+                "lastKnownAddress": "9072 S. Valley View Dr.\nVista, CA 92083",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2677,11 +2677,11 @@
             "weight": "62",
             "knownFacts": {
                 "dateOfBirth": "14/05/1961",
-                "placeOfBirth": "9297 N. Lake Drive Springfield, PA 19064",
+                "placeOfBirth": "9297 N. Lake Drive\nSpringfield, PA 19064",
                 "bloodType": "AB-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "6720 Homewood Street Shirley, NY 11967",
+                "lastKnownAddress": "6720 Homewood Street\nShirley, NY 11967",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -2699,11 +2699,11 @@
             "weight": "69",
             "knownFacts": {
                 "dateOfBirth": "22/09/1957",
-                "placeOfBirth": "3714 Windfall Dr. Waukegan, IL 60085",
+                "placeOfBirth": "3714 Windfall Dr.\nWaukegan, IL 60085",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "3190 Bridge Ave. Waukegan, IL 60085",
+                "lastKnownAddress": "3190 Bridge Ave.\nWaukegan, IL 60085",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2721,11 +2721,11 @@
             "weight": "66",
             "knownFacts": {
                 "dateOfBirth": "20/02/1957",
-                "placeOfBirth": "7784 High Birchpond Street Hoboken, NJ 07030",
+                "placeOfBirth": "7784 High Birchpond Street\nHoboken, NJ 07030",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4455 E. York Rd. Cottage Grove, MN 55016",
+                "lastKnownAddress": "4455 E. York Rd.\nCottage Grove, MN 55016",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -2756,11 +2756,11 @@
             "weight": "72",
             "knownFacts": {
                 "dateOfBirth": "13/02/1955",
-                "placeOfBirth": "5327 Old Bridge Dr. Joliet, IL 60435",
+                "placeOfBirth": "5327 Old Bridge Dr.\nJoliet, IL 60435",
                 "bloodType": "O-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "8952 Sleepy Hollow Street Cottage Grove, MN 55016",
+                "lastKnownAddress": "8952 Sleepy Hollow Street\nCottage Grove, MN 55016",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2778,11 +2778,11 @@
             "weight": "76",
             "knownFacts": {
                 "dateOfBirth": "28/01/1960",
-                "placeOfBirth": "543 Old Deerfield Lane Syosset, NY 11791",
+                "placeOfBirth": "543 Old Deerfield Lane\nSyosset, NY 11791",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "9210 Deerfield Ave. Ontario, CA 91762",
+                "lastKnownAddress": "9210 Deerfield Ave.\nOntario, CA 91762",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -2813,11 +2813,11 @@
             "weight": "71",
             "knownFacts": {
                 "dateOfBirth": "02/09/1957",
-                "placeOfBirth": "2483 Saxton Lane Fullerton, CA 92831",
+                "placeOfBirth": "2483 Saxton Lane\nFullerton, CA 92831",
                 "bloodType": "A-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "3860 S. Birchpond Ave. Waukegan, IL 60085",
+                "lastKnownAddress": "3860 S. Birchpond Ave.\nWaukegan, IL 60085",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -2835,11 +2835,11 @@
             "weight": "73",
             "knownFacts": {
                 "dateOfBirth": "10/09/1953",
-                "placeOfBirth": "6520 High Edgewood Street Springfield, PA 19064",
+                "placeOfBirth": "6520 High Edgewood Street\nSpringfield, PA 19064",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "8050 Pawnee Ave. Franklin, TX 02126",
+                "lastKnownAddress": "8050 Pawnee Ave.\nFranklin, TX 02126",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2857,11 +2857,11 @@
             "weight": "55",
             "knownFacts": {
                 "dateOfBirth": "15/08/1951",
-                "placeOfBirth": "3515 Old Lake Street Central Islip, NY 11722",
+                "placeOfBirth": "3515 Old Lake Street\nCentral Islip, NY 11722",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "2333 Bayberry Dr. Springfield, PA 19064",
+                "lastKnownAddress": "2333 Bayberry Dr.\nSpringfield, PA 19064",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2879,11 +2879,11 @@
             "weight": "73",
             "knownFacts": {
                 "dateOfBirth": "13/01/1971",
-                "placeOfBirth": "2282 Old Over Drive Fullerton, CA 92831",
+                "placeOfBirth": "2282 Old Over Drive\nFullerton, CA 92831",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4263 St Louis Street Woodside, NY 11377",
+                "lastKnownAddress": "4263 St Louis Street\nWoodside, NY 11377",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2901,11 +2901,11 @@
             "weight": "78",
             "knownFacts": {
                 "dateOfBirth": "01/02/1961",
-                "placeOfBirth": "1117 Edgewood Drive Shirley, NY 11967",
+                "placeOfBirth": "1117 Edgewood Drive\nShirley, NY 11967",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "8463 S. Dunbar Lane Chaska, MN 55318",
+                "lastKnownAddress": "8463 S. Dunbar Lane\nChaska, MN 55318",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -2923,11 +2923,11 @@
             "weight": "62",
             "knownFacts": {
                 "dateOfBirth": "06/02/1971",
-                "placeOfBirth": "7571 Ohio Ave. Waukegan, IL 60085",
+                "placeOfBirth": "7571 Ohio Ave.\nWaukegan, IL 60085",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "3153 E. Tanglewood Lane Waukegan, IL 60085",
+                "lastKnownAddress": "3153 E. Tanglewood Lane\nWaukegan, IL 60085",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -2945,11 +2945,11 @@
             "weight": "69",
             "knownFacts": {
                 "dateOfBirth": "03/03/1960",
-                "placeOfBirth": "2904 Williams Street Wilmette, IL 60091",
+                "placeOfBirth": "2904 Williams Street\nWilmette, IL 60091",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "9122 Queen Street Shirley, NY 11967",
+                "lastKnownAddress": "9122 Queen Street\nShirley, NY 11967",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2967,11 +2967,11 @@
             "weight": "70",
             "knownFacts": {
                 "dateOfBirth": "19/06/1955",
-                "placeOfBirth": "3697 N. Bayport Dr. Springfield, PA 19064",
+                "placeOfBirth": "3697 N. Bayport Dr.\nSpringfield, PA 19064",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "8243 Lake Lane Shakopee, MN 55379",
+                "lastKnownAddress": "8243 Lake Lane\nShakopee, MN 55379",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -2996,11 +2996,11 @@
             "weight": "33",
             "knownFacts": {
                 "dateOfBirth": "13/06/1982",
-                "placeOfBirth": "6174 Old Adams Ave. South Lyon, MI 48178",
+                "placeOfBirth": "6174 Old Adams Ave.\nSouth Lyon, MI 48178",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "6946 Cleveland Street Salem, MA 02038",
+                "lastKnownAddress": "6946 Cleveland Street\nSalem, MA 02038",
                 "maritalStatus": "Single",
                 "firearmLicense": "No",
                 "knownMedicalRecord": "Metacarpal bone (M III) abnormal growth"
@@ -3019,11 +3019,11 @@
             "weight": "67",
             "knownFacts": {
                 "dateOfBirth": "01/10/1953",
-                "placeOfBirth": "2100 Old Bank Street Cottage Grove, MN 55016",
+                "placeOfBirth": "2100 Old Bank Street\nCottage Grove, MN 55016",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1040 Old Queen Dr. West New York, NJ 07093",
+                "lastKnownAddress": "1040 Old Queen Dr.\nWest New York, NJ 07093",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -3054,11 +3054,11 @@
             "weight": "68",
             "knownFacts": {
                 "dateOfBirth": "27/10/1947",
-                "placeOfBirth": "8903 E. Point Street Shakopee, MN 55379",
+                "placeOfBirth": "8903 E. Point Street\nShakopee, MN 55379",
                 "bloodType": "O-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "9096 W. Cleveland Street Waukegan, IL 60085",
+                "lastKnownAddress": "9096 W. Cleveland Street\nWaukegan, IL 60085",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3076,11 +3076,11 @@
             "weight": "69",
             "knownFacts": {
                 "dateOfBirth": "19/10/1955",
-                "placeOfBirth": "9571 S. Sleepy Hollow Dr. West New York, NJ 07093",
+                "placeOfBirth": "9571 S. Sleepy Hollow Dr.\nWest New York, NJ 07093",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5489 Jackson Lane Hoboken, NJ 07030",
+                "lastKnownAddress": "5489 Jackson Lane\nHoboken, NJ 07030",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -3098,11 +3098,11 @@
             "weight": "58",
             "knownFacts": {
                 "dateOfBirth": "19/08/1962",
-                "placeOfBirth": "1501 Old Hamilton Lane Sicklerville, NJ 08081",
+                "placeOfBirth": "1501 Old Hamilton Lane\nSicklerville, NJ 08081",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "3182 Lake Street Waukegan, IL 60085",
+                "lastKnownAddress": "3182 Lake Street\nWaukegan, IL 60085",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -3133,11 +3133,11 @@
             "weight": "56",
             "knownFacts": {
                 "dateOfBirth": "26/11/1964",
-                "placeOfBirth": "3928 S. Birchpond Street West New York, NJ 07093",
+                "placeOfBirth": "3928 S. Birchpond Street\nWest New York, NJ 07093",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "2479 York Rd. Hoboken, NJ 07030",
+                "lastKnownAddress": "2479 York Rd.\nHoboken, NJ 07030",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3168,11 +3168,11 @@
             "weight": "25",
             "knownFacts": {
                 "dateOfBirth": "06/11/1983",
-                "placeOfBirth": "6139 Old Tunnel Street Waukegan, IL 60085",
+                "placeOfBirth": "6139 Old Tunnel Street\nWaukegan, IL 60085",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5943 Hamilton Ave. Roselle, IL 60172",
+                "lastKnownAddress": "5943 Hamilton Ave.\nRoselle, IL 60172",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3190,11 +3190,11 @@
             "weight": "57",
             "knownFacts": {
                 "dateOfBirth": "22/02/1958",
-                "placeOfBirth": "5868 Catherine Rd. Wilmette, IL 60091",
+                "placeOfBirth": "5868 Catherine Rd.\nWilmette, IL 60091",
                 "bloodType": "B+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "3302 Monroe Drive Zion, IL 60099",
+                "lastKnownAddress": "3302 Monroe Drive\nZion, IL 60099",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3219,11 +3219,11 @@
             "weight": "18",
             "knownFacts": {
                 "dateOfBirth": "29/01/1987",
-                "placeOfBirth": "1269 Old Birchpond Ave. Springfield, PA 19064",
+                "placeOfBirth": "1269 Old Birchpond Ave.\nSpringfield, PA 19064",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "139 W. Fremont Rd. Franklin, MA 02038",
+                "lastKnownAddress": "139 W. Fremont Rd.\nFranklin, MA 02038",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3241,11 +3241,11 @@
             "weight": "55",
             "knownFacts": {
                 "dateOfBirth": "18/07/1957",
-                "placeOfBirth": "6666 E. Bayberry Dr. Lebanon, PA 17042",
+                "placeOfBirth": "6666 E. Bayberry Dr.\nLebanon, PA 17042",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "885 High Fremont Dr. Syosset, NY 11791",
+                "lastKnownAddress": "885 High Fremont Dr.\nSyosset, NY 11791",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3263,11 +3263,11 @@
             "weight": "59",
             "knownFacts": {
                 "dateOfBirth": "12/09/1962",
-                "placeOfBirth": "9092 W. Hamilton Ave. Syosset, NY 11791",
+                "placeOfBirth": "9092 W. Hamilton Ave.\nSyosset, NY 11791",
                 "bloodType": "O-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "6270 S. Valley View Ave. Roselle, IL 60172",
+                "lastKnownAddress": "6270 S. Valley View Ave.\nRoselle, IL 60172",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -3292,11 +3292,11 @@
             "weight": "66",
             "knownFacts": {
                 "dateOfBirth": "07/02/1969",
-                "placeOfBirth": "3979 Carriage Ave. Cranford, NJ 07016",
+                "placeOfBirth": "3979 Carriage Ave.\nCranford, NJ 07016",
                 "bloodType": "B+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4211 St Louis Street Fullerton, CA 92831",
+                "lastKnownAddress": "4211 St Louis Street\nFullerton, CA 92831",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -3314,11 +3314,11 @@
             "weight": "60",
             "knownFacts": {
                 "dateOfBirth": "04/04/1972",
-                "placeOfBirth": "2671 High Ohio Street Hoboken, NJ 07030",
+                "placeOfBirth": "2671 High Ohio Street\nHoboken, NJ 07030",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "9371 Edgewood Street West New York, NJ 07093",
+                "lastKnownAddress": "9371 Edgewood Street\nWest New York, NJ 07093",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3336,11 +3336,11 @@
             "weight": "67",
             "knownFacts": {
                 "dateOfBirth": "01/05/1966",
-                "placeOfBirth": "5153 W. Homewood Street Kokomo, IN 46901",
+                "placeOfBirth": "5153 W. Homewood Street\nKokomo, IN 46901",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "947 E. Tunnel Ave. Jackson Heights, NY 11372",
+                "lastKnownAddress": "947 E. Tunnel Ave.\nJackson Heights, NY 11372",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3365,11 +3365,11 @@
             "weight": "79",
             "knownFacts": {
                 "dateOfBirth": "15/03/1956",
-                "placeOfBirth": "3779 N. Birchpond Ave. Shirley, NY 11967",
+                "placeOfBirth": "3779 N. Birchpond Ave.\nShirley, NY 11967",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "292 High Monroe Rd. Chaska, MN 55318",
+                "lastKnownAddress": "292 High Monroe Rd.\nChaska, MN 55318",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3387,11 +3387,11 @@
             "weight": "70",
             "knownFacts": {
                 "dateOfBirth": "06/05/1962",
-                "placeOfBirth": "3594 Tunnel Street Lumberton, NC 28358",
+                "placeOfBirth": "3594 Tunnel Street\nLumberton, NC 28358",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1545 Old Edgewood Ave. Roselle, IL 60172",
+                "lastKnownAddress": "1545 Old Edgewood Ave.\nRoselle, IL 60172",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3409,11 +3409,11 @@
             "weight": "65",
             "knownFacts": {
                 "dateOfBirth": "02/03/1973",
-                "placeOfBirth": "7428 Bayberry Street Syosset, NY 11791",
+                "placeOfBirth": "7428 Bayberry Street\nSyosset, NY 11791",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "6224 Old Birchpond Rd. Cottage Grove, MN 55016",
+                "lastKnownAddress": "6224 Old Birchpond Rd.\nCottage Grove, MN 55016",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3431,11 +3431,11 @@
             "weight": "76",
             "knownFacts": {
                 "dateOfBirth": "07/04/1955",
-                "placeOfBirth": "243 Queen Ave. Joliet, IL 60435",
+                "placeOfBirth": "243 Queen Ave.\nJoliet, IL 60435",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "7560 W. Carriage Street Syosset, NY 11791",
+                "lastKnownAddress": "7560 W. Carriage Street\nSyosset, NY 11791",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3453,11 +3453,11 @@
             "weight": "61",
             "knownFacts": {
                 "dateOfBirth": "22/02/1965",
-                "placeOfBirth": "233 Williams Ave. San Jose, CA 95127",
+                "placeOfBirth": "233 Williams Ave.\nSan Jose, CA 95127",
                 "bloodType": "B+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "8540 Orchard Dr. Fullerton, CA 92831",
+                "lastKnownAddress": "8540 Orchard Dr.\nFullerton, CA 92831",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -3482,11 +3482,11 @@
             "weight": "68",
             "knownFacts": {
                 "dateOfBirth": "25/10/1949",
-                "placeOfBirth": "9115 Bayberry Dr. West New York, NJ 07093",
+                "placeOfBirth": "9115 Bayberry Dr.\nWest New York, NJ 07093",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1612 Bank Street Stamford, CT 06902",
+                "lastKnownAddress": "1612 Bank Street\nStamford, CT 06902",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3504,11 +3504,11 @@
             "weight": "67",
             "knownFacts": {
                 "dateOfBirth": "20/02/1967",
-                "placeOfBirth": "1015 N. Tunnel Street Woodside, NY 11377",
+                "placeOfBirth": "1015 N. Tunnel Street\nWoodside, NY 11377",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4564 N. Jackson Lane Lebanon, PA 17042",
+                "lastKnownAddress": "4564 N. Jackson Lane\nLebanon, PA 17042",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3526,11 +3526,11 @@
             "weight": "59",
             "knownFacts": {
                 "dateOfBirth": "16/10/1946",
-                "placeOfBirth": "4767 Ohio Lane Sicklerville, NJ 08081",
+                "placeOfBirth": "4767 Ohio Lane\nSicklerville, NJ 08081",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "7241 Old Sleepy Hollow Drive Lumberton, NC 28358",
+                "lastKnownAddress": "7241 Old Sleepy Hollow Drive\nLumberton, NC 28358",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -3591,11 +3591,11 @@
             "weight": "64",
             "knownFacts": {
                 "dateOfBirth": "14/01/1966",
-                "placeOfBirth": "8859 Point Rd. San Jose, CA 95127",
+                "placeOfBirth": "8859 Point Rd.\nSan Jose, CA 95127",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5522 Carriage Ave. Memphis, TN 38106",
+                "lastKnownAddress": "5522 Carriage Ave.\nMemphis, TN 38106",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -3613,11 +3613,11 @@
             "weight": "64",
             "knownFacts": {
                 "dateOfBirth": "13/05/1960",
-                "placeOfBirth": "8816 Queen Lane Shirley, NY 11967",
+                "placeOfBirth": "8816 Queen Lane\nShirley, NY 11967",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1963 E. Saxton Rd. Wilmette, IL 60091",
+                "lastKnownAddress": "1963 E. Saxton Rd.\nWilmette, IL 60091",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -3642,11 +3642,11 @@
             "weight": "72",
             "knownFacts": {
                 "dateOfBirth": "12/09/1953",
-                "placeOfBirth": "7259 High Pawnee Ave. Jackson Heights, NY 11372",
+                "placeOfBirth": "7259 High Pawnee Ave.\nJackson Heights, NY 11372",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "4496 Catherine Ave. Franklin, MA 02038",
+                "lastKnownAddress": "4496 Catherine Ave.\nFranklin, MA 02038",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -3699,11 +3699,11 @@
             "weight": "64",
             "knownFacts": {
                 "dateOfBirth": "19/03/1928",
-                "placeOfBirth": "4594 Point Lane Hoboken, NJ 07030",
+                "placeOfBirth": "4594 Point Lane\nHoboken, NJ 07030",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "3925 E. Queen Street West New York, NJ 07093",
+                "lastKnownAddress": "3925 E. Queen Street\nWest New York, NJ 07093",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -3734,11 +3734,11 @@
             "weight": "68",
             "knownFacts": {
                 "dateOfBirth": "16/02/1968",
-                "placeOfBirth": "8149 Bayport Street Cottage Grove, MN 55016",
+                "placeOfBirth": "8149 Bayport Street\nCottage Grove, MN 55016",
                 "bloodType": "A-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "2282 Carriage Ave. Cottage Grove, MN 55016",
+                "lastKnownAddress": "2282 Carriage Ave.\nCottage Grove, MN 55016",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3756,11 +3756,11 @@
             "weight": "63",
             "knownFacts": {
                 "dateOfBirth": "06/04/1962",
-                "placeOfBirth": "9882 Monroe Street Cottage Grove, MN 55016",
+                "placeOfBirth": "9882 Monroe Street\nCottage Grove, MN 55016",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1813 S. Queen Ave. Springfield, PA 19064",
+                "lastKnownAddress": "1813 S. Queen Ave.\nSpringfield, PA 19064",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3791,11 +3791,11 @@
             "weight": "69",
             "knownFacts": {
                 "dateOfBirth": "28/08/1953",
-                "placeOfBirth": "1518 Birchpond Lane Stamford, CT 06902",
+                "placeOfBirth": "1518 Birchpond Lane\nStamford, CT 06902",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "8355 Birchpond Street Stamford, CT 06902",
+                "lastKnownAddress": "8355 Birchpond Street\nStamford, CT 06902",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -3820,11 +3820,11 @@
             "weight": "89",
             "knownFacts": {
                 "dateOfBirth": "26/11/1944",
-                "placeOfBirth": "4578 Point Ave. Shakopee, MN 55379",
+                "placeOfBirth": "4578 Point Ave.\nShakopee, MN 55379",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1554 Old Lake Street Shakopee, VA 55379",
+                "lastKnownAddress": "1554 Old Lake Street\nShakopee, VA 55379",
                 "maritalStatus": "Married",
                 "firearmLicense": "Yes",
                 "occupation": "FDI Agent"
@@ -3844,11 +3844,11 @@
             "weight": "55",
             "knownFacts": {
                 "dateOfBirth": "03/09/1933",
-                "placeOfBirth": "4968 Catherine Dr. Vista, CA 92083",
+                "placeOfBirth": "4968 Catherine Dr.\nVista, CA 92083",
                 "bloodType": "B+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "622 Cleveland Street Sicklerville, NJ 08081",
+                "lastKnownAddress": "622 Cleveland Street\nSicklerville, NJ 08081",
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
@@ -3866,7 +3866,7 @@
             "weight": "55",
             "knownFacts": {
                 "dateOfBirth": "13/10/1962",
-                "placeOfBirth": "8 Fairview Drive Maplewood, NJ 07040",
+                "placeOfBirth": "8 Fairview Drive\nMaplewood, NJ 07040",
                 "dateOfDeath": "07/03/1992",
                 "scarsMarks": "None",
                 "aliases": "Ray \"Small Fingers\" Wells",
@@ -3874,7 +3874,7 @@
                 "bloodType": "A+",
                 "maritalStatus": "Single",
                 "firearmLicense": "No",
-                "lastKnownAddress": "130 Laurel St. Culpepper, VA 20136"
+                "lastKnownAddress": "130 Laurel St.\nCulpepper, VA 20136"
             },
             "criminalRecord": [
                 {
@@ -3910,11 +3910,11 @@
             "weight": "73",
             "knownFacts": {
                 "dateOfBirth": "22/02/1946",
-                "placeOfBirth": "610 Cemetery Street Fort Walton Beach, FL 32547",
+                "placeOfBirth": "610 Cemetery Street\nFort Walton Beach, FL 32547",
                 "bloodType": "AB+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "9062 South Airport St. Willington, MT 59336",
+                "lastKnownAddress": "9062 South Airport St.\nWillington, MT 59336",
                 "maritalStatus": "Unknown",
                 "firearmLicense": "No",
                 "occupation": "Unknown"
@@ -3940,11 +3940,11 @@
             "weight": "76",
             "knownFacts": {
                 "dateOfBirth": "02/06/1959",
-                "placeOfBirth": "8915 Berkshire Street Noblesville, IN 46060",
+                "placeOfBirth": "8915 Berkshire Street\nNoblesville, IN 46060",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "9230 Broad St. Boston, MA 02114",
+                "lastKnownAddress": "9230 Broad St.\nBoston, MA 02114",
                 "maritalStatus": "Unknown",
                 "firearmLicense": "No",
                 "occupation": "Unknown"
@@ -3983,11 +3983,11 @@
             "weight": "67",
             "knownFacts": {
                 "dateOfBirth": "27/01/1959",
-                "placeOfBirth": "7177 S. Cleveland Rd. Lebanon, PA 17042",
+                "placeOfBirth": "7177 S. Cleveland Rd.\nLebanon, PA 17042",
                 "bloodType": "O-",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "5123 Williams Ave. Central Islip, VA 11722",
+                "lastKnownAddress": "5123 Williams Ave.\nCentral Islip, VA 11722",
                 "maritalStatus": "Single",
                 "firearmLicense": "No",
                 "occupation": "Unknown, former FDI Operator"
@@ -4007,11 +4007,11 @@
             "weight": "65",
             "knownFacts": {
                 "dateOfBirth": "09/03/1952",
-                "placeOfBirth": "7524 N. Edgewood Street Chaska, MN 55318",
+                "placeOfBirth": "7524 N. Edgewood Street\nChaska, MN 55318",
                 "bloodType": "O+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "6839 High Bayport Rd. Hartwook, VA 07030",
+                "lastKnownAddress": "6839 High Bayport Rd.\nHartwook, VA 07030",
                 "maritalStatus": "Married",
                 "firearmLicense": "Yes",
                 "occupation": "FDI Agent"
@@ -4031,11 +4031,11 @@
             "weight": "69",
             "knownFacts": {
                 "dateOfBirth": "23/03/1953",
-                "placeOfBirth": "9491 Cleveland Dr. Hoboken, NJ 07030",
+                "placeOfBirth": "9491 Cleveland Dr.\nHoboken, NJ 07030",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "3386 S. Queen Drive Memphis, TN 38106",
+                "lastKnownAddress": "3386 S. Queen Drive\nMemphis, TN 38106",
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
@@ -4055,7 +4055,7 @@
                 "dateOfBirth": "19/05/1943",
                 "bloodType": "A-",
                 "scarsMarks": "None",
-                "lastKnownAddress": "380 South Arrowhead St. Owings Mills, VA 21117",
+                "lastKnownAddress": "380 South Arrowhead St.\nOwings Mills, VA 21117",
                 "maritalStatus": "Married",
                 "firearmLicense": "Yes",
                 "occupation": "FDI Operator Supervisor"
@@ -4075,11 +4075,11 @@
             "weight": "75",
             "knownFacts": {
                 "dateOfBirth": "20/03/1948",
-                "placeOfBirth": "2053 W. Queen Rd. Cottage Grove, MN 55016",
+                "placeOfBirth": "2053 W. Queen Rd.\nCottage Grove, MN 55016",
                 "bloodType": "AB+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "8817 E. Pawnee Dr. Hoboken, MD 07030",
+                "lastKnownAddress": "8817 E. Pawnee Dr.\nHoboken, MD 07030",
                 "maritalStatus": "Single",
                 "firearmLicense": "Yes",
                 "occupation": "FDI Operator Program Director"
@@ -4098,16 +4098,105 @@
             "weight": "66",
             "knownFacts": {
                 "dateOfBirth": "12/12/1961",
-                "placeOfBirth": "4242 E. Birchpond Dr. Waukegan, IL 60085",
+                "placeOfBirth": "4242 E. Birchpond Dr.\nWaukegan, IL 60085",
                 "bloodType": "A+",
                 "scarsMarks": "None",
                 "aliases": "No known aliases",
-                "lastKnownAddress": "1543 W. Tunnel Drive Syosset, MD 11791",
+                "lastKnownAddress": "1543 W. Tunnel Drive\nSyosset, MD 11791",
                 "maritalStatus": "Single",
                 "firearmLicense": "Yes",
                 "occupation": "FDI Agent"
             },
             "criminalRecord": [],
+            "fingerprints": "true"
+        },
+        {
+            "name": "Rebecca DAVIS",
+            "img": "rebeccaDAVIS.png",
+            "status": "Alive",
+            "sex": "Female",
+            "age": "33",
+            "skin": "Type I",
+            "eyeColor": "Blue",
+            "height": "173",
+            "weight": "71",
+            "knownFacts": {
+                "dateOfBirth": "01/01/1959",
+                "placeOfBirth": "4829 Mulberry Dr.\nFullerton, CA 92831",
+                "bloodType": "O+",
+                "scarsMarks": "None",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "4573 S. Birchpond Ave.\nChaska, MD 55318",
+                "maritalStatus": "Married",
+                "firearmLicense": "No",
+                "occupation": "Secretary"
+            },
+            "criminalRecord": []
+        },
+        {
+            "name": "Chuck BEETNER",
+            "img": "chuckBEETNER.png",
+            "status": "Alive",
+            "sex": "Male",
+            "age": "46",
+            "skin": "Type II",
+            "eyeColor": "Blue",
+            "height": "168",
+            "weight": "72",
+            "knownFacts": {
+                "dateOfBirth": "04/05/1945",
+                "placeOfBirth": "2273 Tanglewood Dr.\nSyosset, NY 11791",
+                "bloodType": "A+",
+                "aliases": "No known aliases",
+                "lastKnownAddress": "778 Birchpond Street\nFranklin, MD 02038",
+                "maritalStatus": "Single",
+                "firearmLicense": "No",
+                "occupation": "FDI System Admin"
+            },
+            "criminalRecord": [
+                {
+                    "date": "10/06/1987",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "07/12/1990",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "04/04/1990",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "19/07/1977",
+                    "code": "00-72",
+                    "descrption": "Impeding traffic",
+                    "term": "N/A"
+                },
+                {
+                    "date": "21/07/1988",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "24/05/1990",
+                    "code": "07-28",
+                    "descrption": "Stop or no parking violation",
+                    "term": "N/A"
+                },
+                {
+                    "date": "13/05/1991",
+                    "code": "07-01",
+                    "descrption": "Speed violation",
+                    "term": "N/A"
+                }
+            ],
             "fingerprints": "true"
         }
     ]
