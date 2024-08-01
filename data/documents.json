@@ -19,9 +19,14 @@
                             "url": "bar/criminal_car.png"
                         },
                         {
-                            "name": "name list",
+                            "name": "Name list",
                             "type": "file",
                             "url": "bar/name_list.png"
+                        },
+                        {
+                            "name": "Name list (CENSORED)",
+                            "type": "file",
+                            "url": "bar/name_list_censored.png"
                         },
                         {
                             "name": "Victim",
@@ -95,6 +100,11 @@
                                             "url": "facility/HDD/sacha_cole/content.png"
                                         },
                                         {
+                                            "name": "Content (UNLOCKED)",
+                                            "type": "file",
+                                            "url": "facility/HDD/sacha_cole/content_unlocked.png"
+                                        },
+                                        {
                                             "name": "03/04/1992",
                                             "type": "file",
                                             "url": "facility/HDD/sacha_cole/03041992.png"
@@ -158,6 +168,11 @@
                             "name": "Summary",
                             "type": "file",
                             "url": "fire/summary.png"
+                        },
+                        {
+                            "name": "Summary (CENSORED)",
+                            "type": "file",
+                            "url": "fire/summary_censored.png"
                         },
                         {
                             "name": "Wedding picture",
@@ -361,12 +376,47 @@
                                     "name": "Alice",
                                     "type": "file",
                                     "url": "trash/to_delete/alice.png"
+                                },
+                                {
+                                    "name": "Alice Early",
+                                    "type": "file",
+                                    "url": "trash/to_delete/alice_early.png"
                                 }
                             ]
                         }
                     ]
                 }
             ]
+        },
+        {
+            "name": "Welcome",
+            "type": "file",
+            "url": "welcome.png"
+        },
+        {
+            "name": "Most Wanted",
+            "type": "file",
+            "url": "most_wanted.png"
+        },
+        {
+            "name": "Chemscan LCA User Manual",
+            "type": "file",
+            "url": "chemscan_lca_user_manual.png"
+        },
+        {
+            "name": "Bomb defusal guide",
+            "type": "file",
+            "url": "bomb_defusal_guide.png"
+        },
+        {
+            "name": "Trench dead",
+            "type": "file",
+            "url": "trench_dead.png"
+        },
+        {
+            "name": "Credits posters",
+            "type": "file",
+            "url": "credits.png"
         }
     ]
 }

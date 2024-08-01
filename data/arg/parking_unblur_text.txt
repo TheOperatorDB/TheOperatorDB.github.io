@@ -1,0 +1,20 @@
+Hex code spaced every 2 bytes, repeated 8 times:
+
+%YAML 1.1
+%TAG !nity3d.com,2011:114 &11400000
+Moour:
+  m_ObjectH: 0
+  m_CorresporceObject: {file m_PrefabInstancID: 0}
+  m_Prefa{fileID: 0}
+  m_ct: {fileID: 0}
+led: 1
+  m_Editogs: 0
+  m_ScriptD: 11500000, guice37878a204e9020855, type: 3}
+  ASCII_RayGetShotFile_FilesIntegrEditorClassIdent  _framerate: 2
+ng: 0
+  _fadeOutnimateFirstFrameirstFrameAnimatiterPackCount: 12tFrameAnimationDeenCharacterPack  _keepConstantL: 0
+  _lineJumpStainSpaces: 0
+  tent: 
+  _framesarting daemon on6
+  - Starting d port 666
+  - Darted on port 666
