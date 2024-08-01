@@ -60,13 +60,13 @@
             "img": "andreaJENKINS.png",
             "status": "Dead",
             "sex": "Female",
-            "age": "9",
+            "age": "16",
             "skin": "Type II",
             "eyeColor": "Blue",
             "height": "130",
             "weight": "27",
             "knownFacts": {
-                "dateOfBirth": "04/02/1949"
+                "dateOfBirth": "04/02/1942"
             },
             "criminalRecord": [],
             "remark": "Daughter of Henry JENKINS"
