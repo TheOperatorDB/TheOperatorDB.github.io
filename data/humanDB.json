@@ -23,7 +23,8 @@
                 "occupation": "FDI Operator"
             },
             "criminalRecord": [],
-            "fingerprints": "true"
+            "fingerprints": "true",
+            "remark": "Sacha COLE"
         },
         {
             "name": "John DOW",
@@ -37,7 +38,8 @@
             "weight": "[CENSORED]",
             "access" : "forbidden",
             "knownFacts": {},
-            "criminalRecord": []
+            "criminalRecord": [],
+            "remark": "Mentioned in the uncensored Fire Report\nSuspected to be Mike TRENCH"
         },
         {
             "name": "Henry JENKINS",
@@ -66,7 +68,8 @@
             "knownFacts": {
                 "dateOfBirth": "04/02/1949"
             },
-            "criminalRecord": []
+            "criminalRecord": [],
+            "remark": "Daughter of Henry JENKINS"
         },
         {
             "name": "Eve JENKINS",
@@ -79,11 +82,12 @@
             "height": "[CENSORED]",
             "weight": "[CENSORED]",
             "knownFacts": {},
-            "criminalRecord": []
+            "criminalRecord": [],
+            "remark": "Wife of Henry JENKINS"
         },
         {
             "name": "Caden THOMAS",
-            "img": "CadenTHOMAS.png",
+            "img": "cadenTHOMAS.png",
             "status": "Missing",
             "sex": "Male",
             "age": "28",
@@ -1137,7 +1141,8 @@
                 "occupation": "Nurse",
                 "phoneNumber": "202-555-0192"
             },
-            "criminalRecord": []
+            "criminalRecord": [],
+            "remark": "Weird profile, all fields are mixed up\nVery unprecise addresses\nThe only one with a phone number"
         },
         {
             "name": "William MORRIS",
@@ -2685,7 +2690,8 @@
                 "maritalStatus": "Married",
                 "firearmLicense": "No"
             },
-            "criminalRecord": []
+            "criminalRecord": [],
+            "remark": "Only profile with AB- blood type"
         },
         {
             "name": "Nathan POWELL",
@@ -3671,7 +3677,8 @@
             "weight": "[CENSORED]",
             "access": "forbidden",
             "knownFacts": {},
-            "criminalRecord": []
+            "criminalRecord": [],
+            "remark": "Evan TANNER"
         },
         {
             "name": "Mia COLE",
@@ -3685,7 +3692,8 @@
             "weight": "55",
             "access": "forbidden",
             "knownFacts": {},
-            "criminalRecord": []
+            "criminalRecord": [],
+            "remark": "Sacha COLE/Evan TANNER's wife"
         },
         {
             "name": "Gabby MILLS",
@@ -3850,9 +3858,11 @@
                 "aliases": "No known aliases",
                 "lastKnownAddress": "622 Cleveland Street\nSicklerville, NJ 08081",
                 "maritalStatus": "Married",
-                "firearmLicense": "No"
+                "firearmLicense": "No",
+                "occupation": "FDI Transcriber"
             },
-            "criminalRecord": []
+            "criminalRecord": [],
+            "remark": "Mentioned in the Testimony document"
         },
         {
             "name": "Ray WELLS",
@@ -3896,7 +3906,8 @@
                     "term": "N/A"
                 }
             ],
-            "fingerprints": "true"
+            "fingerprints": "true",
+            "remark": "On day one, his HumanDB profile status is 'Alive'\nOnly profile with an Alias"
         },
         {
             "name": "Fred SMORKINSKI",
@@ -3926,7 +3937,8 @@
                     "descrption": "Mailing and hand-delivering several explosive devices to federal buildings and universities.",
                     "term": ""
                 }
-            ]
+            ],
+            "remark": "Mentioned in the Most Wanted document"
         },
         {
             "name": "Wilson BOULDER",
@@ -3956,7 +3968,8 @@
                     "descrption": "Participation in numberous murders and connection with an organized crime group also connected to drug distribution and other illegal activities",
                     "term": ""
                 }
-            ]
+            ],
+            "remark": "Mentioned in the Most Wanted document"
         },
         {
             "name": "SNORESH",
@@ -3969,7 +3982,8 @@
             "height": "Unknown",
             "weight": "Unknown",
             "knownFacts": {},
-            "criminalRecord": []
+            "criminalRecord": [],
+            "remark": "Mentioned in the Most Wanted document\nDoesn't seem to appear on HumanDB"
         },
         {
             "name": "Alice TRUMAN",
@@ -3993,7 +4007,8 @@
                 "occupation": "Unknown, former FDI Operator"
             },
             "criminalRecord": [],
-            "fingerprints": "true"
+            "fingerprints": "true",
+            "remark": "HAL 🎩"
         },
         {
             "name": "Katherine ANDREWS",
@@ -4039,7 +4054,8 @@
                 "maritalStatus": "Single",
                 "firearmLicense": "No"
             },
-            "criminalRecord": []
+            "criminalRecord": [],
+            "remark": ""
         },
         {
             "name": "Xavier SKINNER",
@@ -4131,7 +4147,31 @@
                 "firearmLicense": "No",
                 "occupation": "Secretary"
             },
-            "criminalRecord": []
+            "criminalRecord": [],
+            "remark": "Seen in the endgame sneaking sequence"
+        },
+        {
+            "name": "Dr. A. ILES",
+            "status": "Unknown",
+            "sex": "Unknown",
+            "age": "Unknown",
+            "knownFacts": {
+                "occupation": "Facility director"
+            },
+            "criminalRecord": [],
+            "remark": "Mentioned in Res.1, Res.2 and Study\nLack of information lead to believe that he doesn't exists."
+        },
+        {
+            "name": "\"Ghost\"",
+            "img": "ghost.png",
+            "status": "Alive",
+            "sex": "Male",
+            "age": "Unknown",
+            "knownFacts": {
+                "occupation": "Hitman"
+            },
+            "criminalRecord": [],
+            "remark": "Unknown indentity, doesn't show up in HumanDB"
         },
         {
             "name": "Chuck BEETNER",
@@ -4197,7 +4237,8 @@
                     "term": "N/A"
                 }
             ],
-            "fingerprints": "true"
+            "fingerprints": "true",
+            "remark": "Mentioned by Rebecca DAVIS as the usual IT contact"
         }
     ]
 }

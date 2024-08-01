@@ -95,10 +95,12 @@ function fillTable(humans, filters) {
 
     let img = document.createElement("td");
     img.innerHTML =
-      '<button class="btn" onclick="window.open(\'' +
-      imgPath +
-      humans[i].img +
-      '\',\'_blank\')"><img class="imgIcon" src="/images/humanDB/imageIcon.png"></button>';
+      humans[i].img === undefined
+        ? ""
+        : '<button class="btn" onclick="window.open(\'' +
+          imgPath +
+          humans[i].img +
+          '\',\'_blank\')"><img class="imgIcon" src="/images/humanDB/imageIcon.png"></button>';
     row.appendChild(img);
 
     let name = document.createElement("td");
@@ -179,6 +181,11 @@ function fillTable(humans, filters) {
         break;
     }
     row.appendChild(status);
+
+    let remark = document.createElement("td");
+    remark.classList.add("remark");
+    remark.innerText = humans[i].remark === undefined ? "" : humans[i].remark;
+    row.appendChild(remark);
 
     table.appendChild(row);
   }

@@ -6,8 +6,13 @@
   color: #000758;
 }
 
-.pt-5 {
-  padding-top: 100px !important;
+.index-div {
+  width: 50vw;
+}
+
+.big-text {
+  font-size: 24px;
+  padding-bottom: 25px;
 }
 
 .justify-content-center > .border {
@@ -17,6 +22,7 @@
 .figure {
   margin-bottom: 0;
   font-size: 16px;
+  padding-top: 5px;
 }
 
 .form-control {
@@ -28,10 +34,6 @@
 .form-select {
   min-width: 100px;
   max-width: 180px;
-}
-
-.welcome-text {
-  font-size: 16px;
 }
 
 .primary {

@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/fdi_logo_black.png" width="200px" />
+    <img src="images/icons/fdi.png" width="200px" />
 </div>
 
 # The OPERATOR database 🎩
