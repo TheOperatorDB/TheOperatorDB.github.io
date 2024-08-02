@@ -1,4 +1,11 @@
-function fillTable(cars) {
+function createCell(row, name, value) {
+  let cell = document.createElement("td");
+  cell.classList.add(name);
+  cell.innerText = value === undefined ? "" : value;
+  row.appendChild(cell);
+}
+
+function buildRows(cars) {
   var table = document.getElementById("carDB");
   let imgPath =
     "https://raw.githubusercontent.com/TheOperatorDB/TheOperatorDB.github.io/main/images/carDB/";
@@ -21,41 +28,15 @@ function fillTable(cars) {
           '\',\'_blank\')"><img class="imgIcon" src="/images/carDB/imageIcon.png" width="20px"></button>';
     row.appendChild(img);
 
-    let plate = document.createElement("td");
-    plate.innerText = cars[i].plate;
-    row.appendChild(plate);
-
-    let status = document.createElement("td");
-    status.innerText = cars[i].status;
-    row.appendChild(status);
-
-    let fabDate = document.createElement("td");
-    fabDate.innerText = cars[i].fabDate;
-    row.appendChild(fabDate);
-
-    let color = document.createElement("td");
-    color.innerText = cars[i].color;
-    row.appendChild(color);
-
-    let model = document.createElement("td");
-    model.innerText = cars[i].model;
-    row.appendChild(model);
-
-    let owner = document.createElement("td");
-    owner.innerText = cars[i].knownFacts.owner;
-    row.appendChild(owner);
-
-    let distributor = document.createElement("td");
-    distributor.innerText = cars[i].knownFacts.distributor;
-    row.appendChild(distributor);
-
-    let dateOfPurchase = document.createElement("td");
-    dateOfPurchase.innerText = cars[i].knownFacts.dateOfPurchase;
-    row.appendChild(dateOfPurchase);
-
-    let stolen = document.createElement("td");
-    stolen.innerText = cars[i].knownFacts.stolen;
-    row.appendChild(stolen);
+    createCell(row, "plate", cars[i].plate);
+    createCell(row, "status", cars[i].status);
+    createCell(row, "fabDate", cars[i].fabDate);
+    createCell(row, "color", cars[i].color);
+    createCell(row, "model", cars[i].model);
+    createCell(row, "owner", cars[i].knownFacts.owner);
+    createCell(row, "distributor", cars[i].knownFacts.distributor);
+    createCell(row, "dateOfPurchase", cars[i].knownFacts.dateOfPurchase);
+    createCell(row, "stolen", cars[i].knownFacts.stolen);
 
     table.appendChild(row);
   }
@@ -66,7 +47,7 @@ function fetchCars() {
 
   fetch(path)
     .then((response) => response.json())
-    .then((json) => fillTable(json.d))
+    .then((json) => buildRows(json.d))
     .catch((error) => console.error("Error fetching JSON:", error));
 }
 

@@ -1,23 +1,13 @@
 {
     "d": [
         {
-            "name": "Documents",
+            "name": "Folders",
             "type": "folder",
             "children": [
                 {
                     "name": "Bar",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "Video feed - Cam 02",
-                            "type": "file",
-                            "url": "bar/cam_02.png"
-                        },
-                        {
-                            "name": "Criminal car",
-                            "type": "file",
-                            "url": "bar/criminal_car.png"
-                        },
                         {
                             "name": "Name list",
                             "type": "file",
@@ -27,6 +17,16 @@
                             "name": "Name list (CENSORED)",
                             "type": "file",
                             "url": "bar/name_list_censored.png"
+                        },
+                        {
+                            "name": "Video feed - Cam 02",
+                            "type": "file",
+                            "url": "bar/cam_02.png"
+                        },
+                        {
+                            "name": "Criminal car",
+                            "type": "file",
+                            "url": "bar/criminal_car.png"
                         },
                         {
                             "name": "Victim",
@@ -39,6 +39,16 @@
                     "name": "Desert",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "Testimony",
+                            "type": "file",
+                            "url": "desert/testimony.png"
+                        },
+                        {
+                            "name": "Phone rec",
+                            "type": "file",
+                            "url": "desert/phone_rec.png"
+                        },
                         {
                             "name": "Ganon picture 1",
                             "type": "file",
@@ -53,16 +63,6 @@
                             "name": "Ganon picture 3",
                             "type": "file",
                             "url": "desert/ganon3.png"
-                        },
-                        {
-                            "name": "Phone rec",
-                            "type": "file",
-                            "url": "desert/phone_rec.png"
-                        },
-                        {
-                            "name": "Testimony",
-                            "type": "file",
-                            "url": "desert/testimony.png"
                         }
                     ]
                 },
@@ -124,14 +124,14 @@
                             ]
                         },
                         {
-                            "name": "Code",
-                            "type": "file",
-                            "url": "facility/code.png"
-                        },
-                        {
                             "name": "Connie",
                             "type": "file",
                             "url": "facility/connie.png"
+                        },
+                        {
+                            "name": "Code",
+                            "type": "file",
+                            "url": "facility/code.png"
                         },
                         {
                             "name": "Entrance",
@@ -155,16 +155,6 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "Ash sample",
-                            "type": "file",
-                            "url": "fire/ash_sample.png"
-                        },
-                        {
-                            "name": "Ring",
-                            "type": "file",
-                            "url": "fire/ring.png"
-                        },
-                        {
                             "name": "Summary",
                             "type": "file",
                             "url": "fire/summary.png"
@@ -173,6 +163,16 @@
                             "name": "Summary (CENSORED)",
                             "type": "file",
                             "url": "fire/summary_censored.png"
+                        },
+                        {
+                            "name": "Ash sample",
+                            "type": "file",
+                            "url": "fire/ash_sample.png"
+                        },
+                        {
+                            "name": "Ring",
+                            "type": "file",
+                            "url": "fire/ring.png"
                         },
                         {
                             "name": "Wedding picture",
@@ -200,14 +200,14 @@
                                     "url": "graveyard/body1/badge.png"
                                 },
                                 {
-                                    "name": "Photo back",
-                                    "type": "file",
-                                    "url": "graveyard/body1/photo_back.png"
-                                },
-                                {
                                     "name": "Photo front",
                                     "type": "file",
                                     "url": "graveyard/body1/photo_front.png"
+                                },
+                                {
+                                    "name": "Photo back",
+                                    "type": "file",
+                                    "url": "graveyard/body1/photo_back.png"
                                 }
                             ]
                         },
@@ -297,11 +297,6 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "Bullet",
-                            "type": "file",
-                            "url": "parking/bullet.png"
-                        },
-                        {
                             "name": "Cam 004",
                             "type": "file",
                             "url": "parking/cam_004.png"
@@ -320,6 +315,11 @@
                             "name": "Light",
                             "type": "file",
                             "url": "parking/light.png"
+                        },
+                        {
+                            "name": "Bullet",
+                            "type": "file",
+                            "url": "parking/bullet.png"
                         }
                     ]
                 },
@@ -327,6 +327,16 @@
                     "name": "Surveillance",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "Video feed",
+                            "type": "file",
+                            "url": "surveillance/video_feed.png"
+                        },
+                        {
+                            "name": "Cat",
+                            "type": "file",
+                            "url": "surveillance/cat.png"
+                        },
                         {
                             "name": "Bottles",
                             "type": "file",
@@ -338,19 +348,9 @@
                             "url": "surveillance/bucket.png"
                         },
                         {
-                            "name": "Cat",
-                            "type": "file",
-                            "url": "surveillance/cat.png"
-                        },
-                        {
                             "name": "TV",
                             "type": "file",
                             "url": "surveillance/tv.png"
-                        },
-                        {
-                            "name": "Video feed",
-                            "type": "file",
-                            "url": "surveillance/video_feed.png"
                         },
                         {
                             "name": "Wall",
@@ -373,14 +373,14 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "Alice",
-                                    "type": "file",
-                                    "url": "trash/to_delete/alice.png"
-                                },
-                                {
                                     "name": "Alice Early",
                                     "type": "file",
                                     "url": "trash/to_delete/alice_early.png"
+                                },
+                                {
+                                    "name": "Alice",
+                                    "type": "file",
+                                    "url": "trash/to_delete/alice.png"
                                 }
                             ]
                         }
