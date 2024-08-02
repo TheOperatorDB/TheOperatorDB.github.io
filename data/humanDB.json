@@ -3838,7 +3838,8 @@
                 "occupation": "FDI Agent"
             },
             "criminalRecord": [],
-            "fingerprints": "true"
+            "fingerprints": "true",
+            "remark": "Death mentioned in the credits scene\n"
         },
         {
             "name": "Brittany HOLT",
@@ -4032,7 +4033,8 @@
                 "occupation": "FDI Agent"
             },
             "criminalRecord": [],
-            "fingerprints": "true"
+            "fingerprints": "true",
+            "remark": "Mentioned in the credits scene\nSentenced to life for espionage"
         },
         {
             "name": "Semaj HENDERSON",
@@ -4077,7 +4079,8 @@
                 "occupation": "FDI Operator Supervisor"
             },
             "criminalRecord": [],
-            "fingerprints": "true"
+            "fingerprints": "true",
+            "remark": "Killed by Ghost, even if his body\nis never clearly seen"
         },
         {
             "name": "Mike TRENCH",
@@ -4101,7 +4104,8 @@
                 "occupation": "FDI Operator Program Director"
             },
             "criminalRecord": [],
-            "fingerprints": "true"
+            "fingerprints": "true",
+            "remark": "Body seen on camera before TANNER's death"
         },
         {
             "name": "Alexandra PENDELL",
@@ -4174,6 +4178,18 @@
             "remark": "Unknown indentity, doesn't show up in HumanDB"
         },
         {
+            "name": "???",
+            "img": "",
+            "status": "Alive",
+            "sex": "Male",
+            "age": "Unknown",
+            "knownFacts": {
+                "occupation": "Ghost employee"
+            },
+            "criminalRecord": [],
+            "remark": "Unknown indentity, seen in post-credits scene\nWorks for Ghost and looking for HAL"
+        },
+        {
             "name": "Chuck BEETNER",
             "img": "chuckBEETNER.png",
             "status": "Alive",
@@ -4238,7 +4254,7 @@
                 }
             ],
             "fingerprints": "true",
-            "remark": "Mentioned by Rebecca DAVIS as the usual IT contact"
+            "remark": "Mentioned by Rebecca DAVIS as her usual IT contact"
         }
     ]
 }

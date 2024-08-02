@@ -6,8 +6,25 @@ function fillTable(humans, filters) {
     "https://raw.githubusercontent.com/TheOperatorDB/TheOperatorDB.github.io/main/images/humanDB/";
 
   var humans = humans.filter(function (human, index) {
-    if (filters.search != "") {
-      return human.name.toLowerCase().includes(filters.search.toLowerCase());
+    if (filters.name != "") {
+      return human.name.toLowerCase().includes(filters.name.toLowerCase());
+    }
+    return true;
+  });
+
+  var humans = humans.filter(function (human, index) {
+    if (
+      filters.address != "" &&
+      human.knownFacts.lastKnownAddress !== undefined
+    ) {
+      return human.knownFacts.lastKnownAddress
+        .toLowerCase()
+        .includes(filters.address.toLowerCase());
+    } else if (
+      filters.address != "" &&
+      human.knownFacts.lastKnownAddress === undefined
+    ) {
+      return false;
     }
     return true;
   });
@@ -198,7 +215,8 @@ function fetchJson(path, filters) {
 }
 
 function displayHumanDB() {
-  var search = document.getElementById("searchInput").value;
+  var name = document.getElementById("name").value;
+  var address = document.getElementById("address").value;
   var sex = document.getElementById("sex").value;
   var skin = document.getElementById("skin").value;
   var eyeColor = document.getElementById("eyeColor").value;
@@ -208,7 +226,8 @@ function displayHumanDB() {
   var status = document.getElementById("status").value;
 
   fetchJson("/data/humanDB.json", {
-    search: search,
+    name: name,
+    address: address,
     sex: sex,
     skin: skin,
     eyeColor: eyeColor,
