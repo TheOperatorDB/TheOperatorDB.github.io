@@ -92,7 +92,7 @@ function buildRows(humans) {
     }
     row.appendChild(status);
 
-    createCell(row, "remark", humans[i].remark);
+    createCell(row, "dateOfBirth", humans[i].knownFacts.dateOfBirth);
 
     table.appendChild(row);
   }
