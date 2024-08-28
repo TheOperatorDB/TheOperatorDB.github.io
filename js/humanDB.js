@@ -46,8 +46,8 @@ function buildRows(humans) {
     row.appendChild(img);
 
     createCell(row, "name", humans[i].name);
-    createCell(row, "sex", humans[i].name);
-    createCell(row, "age", humans[i].name);
+    createCell(row, "sex", humans[i].sex);
+    createCell(row, "age", humans[i].age);
     createCell(row, "maritalStatus", humans[i].knownFacts.maritalStatus);
     createCell(row, "lastKnownAddress", humans[i].knownFacts.lastKnownAddress);
     createCell(row, "occupation", humans[i].knownFacts.occupation);
